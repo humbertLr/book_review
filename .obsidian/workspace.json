@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d2bb7110bc6350a7",
+        "id": "2462bccc02505cb6",
         "type": "tabs",
         "children": [
           {
-            "id": "6734d18f9c51b8b3",
+            "id": "eacd8ae4afc53005",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Book/Principles111.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Principles111"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Book/Principles111.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Principles111"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Book/Principles111.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Principles111"
             }
           },
           {
@@ -140,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Book/Principles111.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Principles111"
             }
           },
           {
@@ -177,10 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6734d18f9c51b8b3",
+  "active": "eacd8ae4afc53005",
   "lastOpenFiles": [
     "Book/Procrastination.md",
-    "Book/Principles.md",
+    "Book/Principles111.md",
     "Book/原则.md",
     "Book/胜者思维.md",
     "Untitled.md",
