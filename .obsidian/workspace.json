@@ -11,14 +11,14 @@
             "id": "6734d18f9c51b8b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Book/Procrastination.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Procrastination"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Book/Procrastination.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Procrastination"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Book/Procrastination.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Procrastination"
+              "title": "Outgoing links"
             }
           },
           {
@@ -142,21 +140,30 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book/Procrastination.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Procrastination"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "ed276d62babc0db3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,11 +179,11 @@
   },
   "active": "6734d18f9c51b8b3",
   "lastOpenFiles": [
+    "Book/Procrastination.md",
     "Book/Principles.md",
     "Book/原则.md",
     "Book/胜者思维.md",
     "Untitled.md",
-    "Book/Procrastination.md",
     "Book"
   ]
 }
