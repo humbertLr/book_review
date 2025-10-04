@@ -16,5 +16,3 @@ there's no one kind of intimate relationship
 ## The Need to Belong
 >Roy Baumeister and Mark Leary(1995)
 >we need frequent, pleasant interactions with intimate partners in lasting, caring relationship if we're to function normally.
-
-he
