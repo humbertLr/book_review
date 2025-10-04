@@ -5,6 +5,7 @@
   "heading-font-settings@@h1-size": 1.4,
   "heading-font-settings@@h4-size": 1,
   "heading-font-settings@@h5-size": 1,
-  "heading-font-settings@@compact-mode": true,
-  "heading-font-settings@@paragraph-spacing": 0.1
+  "heading-font-settings@@compact-mode": false,
+  "heading-font-settings@@paragraph-spacing": 0.6,
+  "heading-font-settings@@line-height": 1
 }

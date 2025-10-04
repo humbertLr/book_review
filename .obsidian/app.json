@@ -1,5 +1,7 @@
 {
   "showLineNumber": false,
   "tabSize": 2,
-  "smartIndentList": true
+  "smartIndentList": true,
+  "strictLineBreaks": true,
+  "readableLineLength": false
 }
