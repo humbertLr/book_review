@@ -12,4 +12,4 @@ people recognize close connection adn think of themselves as "us"
 **commitment**
 intimate partners expect their partnerships to continue indefinitely, and they invest the time, effort, adn resources that are needed to realize that goal
 
-there's no one kind of intimate
+there's no one kind of intimate relationship
