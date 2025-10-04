@@ -11,10 +11,14 @@
             "id": "c913eeefe1bf7631",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Book/Procrastination.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Procrastination"
             }
           }
         ]
@@ -178,15 +182,15 @@
   },
   "active": "c913eeefe1bf7631",
   "lastOpenFiles": [
+    "Procrastination.md",
+    "Book/Procrastination.md",
+    "Principles.md",
+    "原则.md",
+    "胜者思维.md",
     "111.md",
     "Book/Principles111.md",
     "新建文本文档.txt",
     "111.txt",
-    "胜者思维.md",
-    "原则.md",
-    "Procrastination.md",
-    "Principles.md",
-    "Book/Procrastination.md",
     "Book/原则.md",
     "Book/胜者思维.md",
     "Untitled.md",
