@@ -1,8 +1,10 @@
 {
-  "heading-font-settings@@accent": "#00FF10",
+  "heading-font-settings@@accent": "#007AFF",
   "heading-font-settings@@h3-size": 1.1,
   "heading-font-settings@@h2-size": 1.2,
   "heading-font-settings@@h1-size": 1.4,
   "heading-font-settings@@h4-size": 1,
-  "heading-font-settings@@h5-size": 1
+  "heading-font-settings@@h5-size": 1,
+  "heading-font-settings@@compact-mode": true,
+  "heading-font-settings@@paragraph-spacing": 0.1
 }
