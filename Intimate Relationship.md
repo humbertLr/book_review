@@ -11,3 +11,4 @@ extensive personal, often confidental, knowledge about each other
 people recognize close connection adn think of themselves as "us" 
 **commitment**
 intimate partners expect their partnerships to continue indefinitely, and they invest the time, effort, adn resources that are needed to realize that goal
+ther
