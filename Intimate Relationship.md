@@ -8,3 +8,4 @@ extensive personal, often confidental, knowledge about each other
 **interdependence**
 **caring, trust, responsiveness**
 **mutuality**
+recognize col
