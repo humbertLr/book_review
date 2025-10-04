@@ -9,4 +9,4 @@ extensive personal, often confidental, knowledge about each other
 **caring, trust, responsiveness**
 **mutuality**
 people recognize close connection adn think of themselves as "us" 
-commitment
+**commitment**
