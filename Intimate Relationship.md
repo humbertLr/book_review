@@ -14,3 +14,5 @@ intimate partners expect their partnerships to continue indefinitely, and they i
 
 there's no one kind of intimate relationship
 ## The Need to Belong
+>Roy Baumeister and Mark Leary(1995)
+>
