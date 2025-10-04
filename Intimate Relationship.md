@@ -6,4 +6,4 @@ intimate relationships differ from more casual associations in at least seven sp
 **knowledge**
 extensive personal, often confidental, knowledge about each other
 **interdependence**
-**caring**
+**caring, trust, responsiveness**
