@@ -8,4 +8,4 @@ extensive personal, often confidental, knowledge about each other
 **interdependence**
 **caring, trust, responsiveness**
 **mutuality**
-peoprecognize close connection adn think of 
+people recognize close connection adn think of them 
