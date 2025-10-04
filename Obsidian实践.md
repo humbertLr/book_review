@@ -1,3 +1,3 @@
 # Markdown
-qing'liang'ji'biao'ji'y
+轻量级标记语言
 **核心理念**：易读易写
