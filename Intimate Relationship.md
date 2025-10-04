@@ -13,4 +13,4 @@ people recognize close connection adn think of themselves as "us"
 intimate partners expect their partnerships to continue indefinitely, and they invest the time, effort, adn resources that are needed to realize that goal
 
 there's no one kind of intimate relationship
-## The Need to Be
+## The Need to Belong
