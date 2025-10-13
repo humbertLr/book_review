@@ -3,5 +3,7 @@
   "tabSize": 2,
   "smartIndentList": true,
   "strictLineBreaks": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "defaultViewMode": "source",
+  "livePreview": true
 }
