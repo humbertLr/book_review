@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Rationality"
             }
+          },
+          {
+            "id": "13a0f32227aade18",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -196,7 +208,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e6d0b50c946fd80b",
+  "active": "13a0f32227aade18",
   "lastOpenFiles": [
     "Rationality.md",
     "Intimate Relationship.md",
