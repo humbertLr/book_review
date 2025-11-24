@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,7 +211,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf3d6cdf9b77803c",
+  "active": "e6d0b50c946fd80b",
   "lastOpenFiles": [
     "当下的力量.md",
     "Rationality.md",
