@@ -14,3 +14,5 @@ the second pair of concepts
 1. **Schismogenesis**: positive feedback loop that allows for the increasing destruction of relationships
 	- Complementary schismogenesis
 	- Symmetrical schismogenesis
+2. Double bind
+	
