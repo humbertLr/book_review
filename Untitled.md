@@ -11,4 +11,4 @@ the second pair of concepts
 
 # Warren McCulloch
 # Gregory Bateson
-1. **Schismogenesi
+1. **Schismogenesis**: positive
