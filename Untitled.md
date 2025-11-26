@@ -18,4 +18,5 @@ the second pair of concepts
 	- the patterns of interaction between people who must interact incompatibly with each other simultaneously
 3. **Levels of learning**
 	- Learning 0: only entails responding to stimuli, with no experience or information-backed changes
-	- Learning 1: 
+	- Learning 1: optimize alternative choices within a predetermined set of alternatives
+	- Learning 2: 
