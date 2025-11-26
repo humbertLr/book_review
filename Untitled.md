@@ -17,4 +17,4 @@ the second pair of concepts
 2. **Double bind**
 	- the patterns of interaction between people who must interact incompatibly with each other simultaneously
 3. **Levels of learning**
-	- Learning 0: only entails responding to stimuli
+	- Learning 0: only entails responding to stimuli, with no experience or 
