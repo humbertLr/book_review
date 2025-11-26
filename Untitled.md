@@ -11,3 +11,4 @@ the second pair of concepts
 
 # Warren McCulloch
 # Gregory Bateson
+## The Double Bind
