@@ -10,3 +10,4 @@ the second pair of concepts
 2. Machines and their mechanics
 
 # Warren McCulloch
+# Gregory Bateson
