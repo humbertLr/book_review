@@ -8,3 +8,5 @@ two paired ideas
 the second pair of concepts
 1. Humans and animals and their physiology
 2. Machines and their mechanics
+
+# Warren McCulloch
