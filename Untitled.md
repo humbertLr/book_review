@@ -15,4 +15,4 @@ the second pair of concepts
 	- Complementary schismogenesis
 	- Symmetrical schismogenesis
 2. Double bind
-	
+	- the patterns of interaction betw
