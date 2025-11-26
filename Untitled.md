@@ -20,3 +20,4 @@ the second pair of concepts
 	- Learning 0: only entails responding to stimuli, with no experience or information-backed changes
 	- Learning 1: optimize alternative choices within a predetermined set of alternatives
 	- Learning 2: the set of alternatives becomes dynamic
+	- Learning 3: 
