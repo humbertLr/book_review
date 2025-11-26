@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intimate Relationship.md",
+                "file": "当下的力量.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intimate Relationship"
+              "title": "当下的力量"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,10 +196,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e973706da85e4468",
+  "active": "f8ce910f6bac521d",
   "lastOpenFiles": [
-    "Untitled.md",
     "Intimate Relationship.md",
+    "Untitled.md",
     "Rationality.md",
     "当下的力量.md",
     "被讨厌的勇气.md",
