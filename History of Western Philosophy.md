@@ -1,1 +1,1 @@
-# PART ONE Gre
+# PART ONE Greek Philosophy
