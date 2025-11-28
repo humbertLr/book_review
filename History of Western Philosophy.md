@@ -10,6 +10,6 @@
 埃利亚学派：存在时永恒不变的，只是感觉表象在发生变化。
 #### 赫拉克利特
 火和普遍的变动
-
+火是不停变化和连续进行性质转化的基质
 ### 5. Qualitative theories
 ### 6. Quantitative theories
