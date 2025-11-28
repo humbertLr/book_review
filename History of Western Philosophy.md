@@ -6,6 +6,6 @@
 ### 4. The problem of change
 #### 永恒与变化
 实体转化理论暗含的假设：没有事物能够被绝对地生成或消灭
-
+赫拉克利特：
 ### 5. Qualitative theories
 ### 6. Quantitative theories
