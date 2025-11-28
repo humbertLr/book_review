@@ -5,4 +5,4 @@
 ### 3. The problem of substance
 ### 4. The problem of change
 ### 5. Qualitative theories
-### 6. 
+### 6. Quantitative theories
