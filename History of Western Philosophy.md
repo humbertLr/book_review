@@ -1,2 +1,3 @@
 # PART ONE Greek Philosophy
-## I Philosophy of Natu
+## I Philosophy of Nature
+### 1. 
