@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "当下的力量"
             }
+          },
+          {
+            "id": "7bae87e04188beb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 2"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,13 +197,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f8ce910f6bac521d",
+  "active": "7bae87e04188beb2",
   "lastOpenFiles": [
+    "Untitled 2.md",
+    "当下的力量.md",
     "Untitled 1.md",
     "History of Western Philosophy.md",
     "How can we develop transfomative tools for thought.md",
     "Untitled.md",
-    "当下的力量.md",
     "Intimate Relationship.md",
     "Rationality.md",
     "被讨厌的勇气.md",
