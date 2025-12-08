@@ -34,9 +34,19 @@
               "icon": "lucide-file",
               "title": "厌女症"
             }
+          },
+          {
+            "id": "0c1b4edbcb9e694a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "77cfc6c4f1f2d513",
@@ -197,7 +206,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7bae87e04188beb2",
+  "active": "0c1b4edbcb9e694a",
   "lastOpenFiles": [
     "厌女症.md",
     "当下的力量.md",
