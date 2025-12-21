@@ -25,10 +25,14 @@
             "id": "dcd163bbb1e292a0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "国王 武士 祭司 诗人.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "国王 武士 祭司 诗人"
             }
           }
         ],
@@ -89,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "77cfc6c4f1f2d513",
@@ -194,6 +199,7 @@
   },
   "active": "dcd163bbb1e292a0",
   "lastOpenFiles": [
+    "国王 武士 祭司 诗人.md",
     "自我与无意识.md",
     "当下的力量.md",
     "厌女症.md",
@@ -219,7 +225,6 @@
     "Principles.md",
     "原则.md",
     "胜者思维.md",
-    "111.md",
     "新建文本文档.txt",
     "111.txt",
     "Book"
