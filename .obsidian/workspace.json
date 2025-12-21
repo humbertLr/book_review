@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "自我与无意识"
             }
+          },
+          {
+            "id": "dcd163bbb1e292a0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "77cfc6c4f1f2d513",
@@ -182,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ecdaa523a093888",
+  "active": "dcd163bbb1e292a0",
   "lastOpenFiles": [
     "自我与无意识.md",
     "当下的力量.md",
