@@ -35,8 +35,7 @@
               "title": "国王 武士 祭司 诗人"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "77cfc6c4f1f2d513",
@@ -197,12 +195,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dcd163bbb1e292a0",
+  "active": "0ecdaa523a093888",
   "lastOpenFiles": [
+    "国王 武士 祭司 诗人.md",
     "Pasted image 20251221203653.png",
     "Pasted image 20251221203345.png",
     "Pasted image 20251221203001.png",
-    "国王 武士 祭司 诗人.md",
     "自我与无意识.md",
     "当下的力量.md",
     "厌女症.md",
