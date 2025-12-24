@@ -1,5 +1,6 @@
 # 5 The search of Truth
 ## What is true?
 questions:
-- What is it for a set of beliefs to be true
+- What is it for a set of beliefs to be true?
+- How will we know when our beliefs 
 epistemology, the theory of knowledge
