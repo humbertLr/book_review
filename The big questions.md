@@ -16,3 +16,4 @@ that turns out not to help us at all
 1). true because of the facts
 2). true because of reasoninng
 - necessary truths
+### Empirical Truth
