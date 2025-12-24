@@ -10,4 +10,5 @@ some of the reasons why the notion of a belief being true is ==not as straightfo
 if and only if it corresponds to the facts
 that turns out not to help us at all
 1. there are true statements that do not (or need not ) correspond to any facts, eg: 75x3=225.
-2. How do we know what we believe as a matter of common sense is in fact justified and not just **a set of plausible falsehoods** that have been handed down uncritically from person to person, generati
+2. How do we know what we believe as a matter of common sense is in fact justified and not just **a set of plausible falsehoods** that have been handed down uncritically from person to person, generation to generation?
+3. 
