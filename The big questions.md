@@ -19,3 +19,4 @@ that turns out not to help us at all
 ### Empirical Truth
 true because of experience, only when we have actually looked at the world
 **contingent truth** and contingent falsehood 
+### Necessary Truth
