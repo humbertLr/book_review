@@ -13,5 +13,5 @@ that turns out not to help us at all
 2. How do we know what we believe as a matter of common sense is in fact justified and not just **a set of plausible falsehoods** that have been handed down uncritically from person to person, generation to generation?
 3. Must all statements in science be confirmed by **experience**? And what about religious truths? Is there a kind of truth that depends on faith and is very different from scientific truth?
 ## Two kinds of truth
-1). true because of facts
+1). true because of the facts
 2). true because of reasoninng
