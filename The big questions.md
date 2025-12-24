@@ -21,3 +21,4 @@ true because of experience, only when we have actually looked at the world
 **contingent truth** and contingent falsehood 
 ### Necessary Truth
 true because of reasoning
+prior to experience, a priori
