@@ -8,3 +8,4 @@ epistemology, the theory of knowledge
 some of the reasons why the notion of a belief being true is ==not as straightforward as it seems==
 1). "What is it for an assertion or a belief to be true?"
 if and only if it corresponds to the facts
+that turns out not to help us at all
