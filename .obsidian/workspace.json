@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "The big questions"
             }
+          },
+          {
+            "id": "db8f88a788c3c18a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9481387451b535fb",
+  "active": "db8f88a788c3c18a",
   "lastOpenFiles": [
     "The big questions.md",
     "为什么早点没人告诉我.md",
