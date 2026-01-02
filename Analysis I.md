@@ -7,3 +7,5 @@ questions:
 2). How do you take the limit of a squence of real numbers?
 3). What is a function?
 ## 1.2 Why Do Analysis?
+one can get into trouble if one applies rules without knowing where they came from and what the limits of their applicablity are.
+
