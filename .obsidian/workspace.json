@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "Analysis I.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 2"
+              "title": "Analysis I"
             }
           }
         ],
@@ -241,7 +241,7 @@
   },
   "active": "47f72f1937dbb1fe",
   "lastOpenFiles": [
-    "Untitled 2.md",
+    "Analysis I.md",
     "思考：快与慢.md",
     "系统之美.md",
     "反脆弱.md",
