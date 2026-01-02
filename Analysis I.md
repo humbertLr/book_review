@@ -4,3 +4,4 @@ objects: numbers, sequences, series, limits, functions, definite integrals, deri
 focused more on the **underlying theory** for these objects
 questions:
 1). What is a real number? Is there a largest real number?
+2). How do you take the limit of a squence of real numbers?
