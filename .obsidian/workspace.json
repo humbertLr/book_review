@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "The Top of My Todo List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 2"
+              "title": "The Top of My Todo List"
             }
           }
         ],
@@ -255,7 +255,7 @@
   },
   "active": "bd638905f5f0204a",
   "lastOpenFiles": [
-    "Untitled 2.md",
+    "The Top of My Todo List.md",
     "Analysis I.md",
     "思考：快与慢.md",
     "系统之美.md",
