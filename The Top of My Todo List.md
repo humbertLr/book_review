@@ -9,4 +9,4 @@ The top of the todo list:
 - Don't work too much
 - Say what you think
 - Cultivate friendships
-- Be happy and healthy
+- Be happy and healthy 
