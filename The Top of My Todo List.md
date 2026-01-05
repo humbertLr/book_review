@@ -3,4 +3,4 @@ don't be a cog
 
 dangerous type of mistake because of you make them by **default**
 
-
+How to avoid mistakes you  make by default
