@@ -46,4 +46,5 @@ Ecological Rationality
 阶段 I 校准感知-去幻觉
 阶段 II 稳定分析-会拆
 阶段 III　生成判断-敢选
-阶段 IV 内化价值
+阶段 IV 内化价值-能走
+
