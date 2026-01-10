@@ -53,4 +53,4 @@ Ecological Rationality
 
 过三关
 1). 情绪门槛-尼采
-这条信息
+这条信息是否在试图先让我"
