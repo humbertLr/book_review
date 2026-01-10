@@ -39,6 +39,11 @@ L4 | 价值与立场
 Metacognition
 System1 / System2
 Ecological Rationality
+Critical Discourse Analysis
+Affective Linguistics
+Rhetoric
+Lakoff
+R't'h
 
 把康德的合法性，尼采的价值生成，福柯的结构感知，整合进一个可日常运行的个人系统。
 
@@ -58,4 +63,6 @@ Ecological Rationality
 它给的是结论还是推理结构
 3). 可见性门槛-福柯
 这个问题为什么此刻被反复讨论
+
+
 
