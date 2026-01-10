@@ -39,6 +39,7 @@ L4 | 价值与立场
 Metacognition
 System1 / System2
 Ecological Rationality
+
 Critical Discourse Analysis
 Affective Linguistics
 Rhetoric
@@ -48,6 +49,8 @@ Ruth Wodak
 Informal logic
 Argumentation Theory
 Critical Thinking
+
+
 
 
 
