@@ -43,7 +43,7 @@ Critical Discourse Analysis
 Affective Linguistics
 Rhetoric
 Lakoff
-R't'h
+Ruth Wodak
 
 把康德的合法性，尼采的价值生成，福柯的结构感知，整合进一个可日常运行的个人系统。
 
