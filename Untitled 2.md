@@ -45,6 +45,12 @@ Rhetoric
 Lakoff
 Ruth Wodak
 
+Informal logic
+Argumentation Theory
+Critical Thinking
+
+
+
 把康德的合法性，尼采的价值生成，福柯的结构感知，整合进一个可日常运行的个人系统。
 
 构建一个反思性理性 x 现实判断 x 自我约束的长期训练系统
