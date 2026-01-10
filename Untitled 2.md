@@ -50,6 +50,10 @@ Informal logic
 Argumentation Theory
 Critical Thinking
 
+福柯 话语的秩序
+布迪厄 象征权力
+媒介研究 娱乐至死
+
 
 
 
