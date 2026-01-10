@@ -40,3 +40,4 @@ Metacognition
 System1 / System2
 Ecological Rationality
 
+把康德的合法性，尼采的价值生成，福柯的结构感知，整合进一个可日常运行的个人系统。
