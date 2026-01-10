@@ -35,3 +35,8 @@ L4 | 价值与立场
 3). 哪些事情慢一点也值得
 
 真正成熟的思维，不是什么都看穿，而是在看穿之后，依然愿意选择。
+
+Metacognition
+System1 / System2
+Ecological Rationality
+
