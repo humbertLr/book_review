@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "思考：快与慢"
             }
+          },
+          {
+            "id": "252877c22803bdb2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -225,7 +237,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "89df3d07a4d76cbd",
+  "active": "252877c22803bdb2",
   "lastOpenFiles": [
     "查拉图斯特拉如是说.md",
     "计算机网络.md",
