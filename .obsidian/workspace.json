@@ -62,21 +62,9 @@
               "icon": "lucide-file",
               "title": "思考：快与慢"
             }
-          },
-          {
-            "id": "252877c22803bdb2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -237,15 +225,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "252877c22803bdb2",
+  "active": "89df3d07a4d76cbd",
   "lastOpenFiles": [
+    "Untitled 2.md",
+    "过滤信息保持判断.md",
+    "思考：快与慢.md",
     "查拉图斯特拉如是说.md",
     "计算机网络.md",
-    "过滤信息保持判断.md",
     "未来形而上学导论.md",
     "The Top of My Todo List.md",
     "Analysis I.md",
-    "思考：快与慢.md",
     "系统之美.md",
     "反脆弱.md",
     "The big questions.md",
@@ -267,7 +256,6 @@
     "被讨厌的勇气.md",
     "Introdution to Psychology.md",
     "自我修复.md",
-    "福格行为模型.md",
     "新建文本文档.txt",
     "111.txt",
     "Book"
