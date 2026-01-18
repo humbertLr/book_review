@@ -95,14 +95,18 @@
             "id": "4b58059c228e4b86",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 3.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled 3"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -262,8 +266,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "433830131614cd3d",
+  "active": "4b58059c228e4b86",
   "lastOpenFiles": [
+    "Untitled 4.md",
+    "Untitled 3.md",
     "过滤信息保持判断.md",
     "判断框架.md",
     "科学饮食.md",
@@ -291,8 +297,6 @@
     "How can we develop transfomative tools for thought.md",
     "Untitled.md",
     "Intimate Relationship.md",
-    "Rationality.md",
-    "被讨厌的勇气.md",
     "新建文本文档.txt",
     "111.txt",
     "Book"
