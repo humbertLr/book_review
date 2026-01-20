@@ -1,1 +1,1 @@
-ni'bu'bi'dan'xin
+你不必担心任何事情，因为ben'zhi'shang'yi'ei
