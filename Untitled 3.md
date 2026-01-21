@@ -4,4 +4,4 @@
 电子发烧友网
 真正让人安心的，不是控制，而是允许发生
 elon musk
-zhong'ke'yuan'wei'dian
+中
