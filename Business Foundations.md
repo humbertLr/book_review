@@ -1,7 +1,9 @@
 Value Proposition Canvas
 start with the customer
 
-Module 1: Introduign the tools to formulate fit
-1.1
+# Module 1: Introduign the tools to formulate fit
+## 1.1 Module Overview
+## 1.2 The why: 
 The pain to be avoided
 avoid the pains in doing that job
+## 1.3 The value proposition canvas 
