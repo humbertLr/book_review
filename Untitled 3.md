@@ -1,1 +1,1 @@
-Without writing, you are reduced to a fin
+Without writing, you are reduced to a finite automaton. With 
