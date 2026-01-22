@@ -92,15 +92,17 @@
             }
           },
           {
-            "id": "701a1f233b2c4bf5",
+            "id": "9156bca0d20f4f08",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.5"
+                "file": "Untitled 3.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
+              "icon": "lucide-file",
+              "title": "Untitled 3"
             }
           }
         ],
@@ -161,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "77cfc6c4f1f2d513",
@@ -264,8 +267,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "701a1f233b2c4bf5",
+  "active": "9156bca0d20f4f08",
   "lastOpenFiles": [
+    "Untitled 3.md",
     "点滴.md",
     "Introdution to Psychology.md",
     "注意力.md",
@@ -294,7 +298,6 @@
     "查拉图斯特拉如是说.md",
     "未来形而上学导论.md",
     "Analysis I.md",
-    "系统之美.md",
     "新建文本文档.txt",
     "111.txt",
     "Book"
