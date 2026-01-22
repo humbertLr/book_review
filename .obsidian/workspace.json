@@ -104,9 +104,19 @@
               "icon": "lucide-file",
               "title": "Untitled 3"
             }
+          },
+          {
+            "id": "33a9e9135fac63de",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -252,7 +262,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,7 +277,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9156bca0d20f4f08",
+  "active": "943a66ec19a259fe",
   "lastOpenFiles": [
     "Untitled 3.md",
     "点滴.md",
