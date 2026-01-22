@@ -1,1 +1,1 @@
-Without writing, you are reduced to a finite automaton. With 
+Without writing, you are reduced to a finite automaton. With writing you have the extraordinary of A
