@@ -90,9 +90,21 @@
               "icon": "lucide-file",
               "title": "点滴"
             }
+          },
+          {
+            "id": "701a1f233b2c4bf5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -252,7 +264,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "857e17698e0eb164",
+  "active": "701a1f233b2c4bf5",
   "lastOpenFiles": [
     "点滴.md",
     "Introdution to Psychology.md",
