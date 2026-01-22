@@ -1,0 +1,1 @@
+Without writing, you are reduced to a fin
