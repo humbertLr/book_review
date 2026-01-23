@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/The big questions.md",
+                "file": "贫穷是被设计好的.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The big questions"
+              "title": "贫穷是被设计好的"
             }
           },
           {
@@ -276,8 +276,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9490359e31b55610",
+  "active": "943a66ec19a259fe",
   "lastOpenFiles": [
+    "Philosophy/The big questions.md",
     "thinking",
     "Psychology/自我与无意识.md",
     "结晶化过程.md",
