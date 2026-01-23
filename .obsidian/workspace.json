@@ -8,127 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cc301aae75f829ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kevin O'leary.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kevin O'leary"
-            }
-          },
-          {
-            "id": "943a66ec19a259fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psychology/Intimate Relationship.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Intimate Relationship"
-            }
-          },
-          {
-            "id": "4669645470aeb205",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Psychology/Pasted image 20251221203001.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251221203001"
-            }
-          },
-          {
-            "id": "0b1b7e921a5fa91b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How can we develop transfomative tools for thought.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How can we develop transfomative tools for thought"
-            }
-          },
-          {
-            "id": "7ab80771276fe325",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Designing your life.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Designing your life"
-            }
-          },
-          {
-            "id": "eec4fc720021d0d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Introdution to Psychology.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Introdution to Psychology"
-            }
-          },
-          {
-            "id": "2684f45f04abac71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "注意力.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "注意力"
-            }
-          },
-          {
-            "id": "857e17698e0eb164",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "点滴.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "点滴"
-            }
-          },
-          {
             "id": "9156bca0d20f4f08",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 3.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Untitled 3"
+              "title": "New tab"
             }
           },
           {
@@ -141,8 +27,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -287,8 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -302,20 +186,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b1b7e921a5fa91b",
+  "active": "9156bca0d20f4f08",
   "lastOpenFiles": [
+    "History/Reading list.md",
+    "Computer science/计算机网络.md",
+    "Analysis I.md",
+    "Norbert Wiener&Warren McCuelloch.md",
+    "Kevin O'leary.md",
+    "How can we develop transfomative tools for thought.md",
     "注意力.md",
     "点滴.md",
     "Mathmatics",
     "Psychology/Pasted image 20251221203345.png",
     "Psychology/Pasted image 20251221203001.png",
     "Psychology/Intimate Relationship.md",
-    "How can we develop transfomative tools for thought.md",
     "Psychology/Introdution to Psychology.md",
     "Business&Finance",
     "Untitled.md",
-    "Kevin O'leary.md",
-    "Norbert Wiener&Warren McCuelloch.md",
     "The Top of My Todo List.md",
     "thinking/贫穷是被设计好的.md",
     "Philosophy/The big questions.md",
@@ -338,8 +225,6 @@
     "Writing.md",
     "Language/日语.md",
     "Untitled 2.md",
-    "History/Reading list.md",
-    "History/Untitled.md",
     "History",
     "新建文本文档.txt"
   ]
