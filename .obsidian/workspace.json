@@ -25,14 +25,12 @@
             "id": "943a66ec19a259fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Untitled 3.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20251221203653.png"
               },
-              "icon": "lucide-file",
-              "title": "Untitled 3"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251221203653"
             }
           },
           {
@@ -278,6 +276,7 @@
   },
   "active": "943a66ec19a259fe",
   "lastOpenFiles": [
+    "Writing.md",
     "日语.md",
     "Untitled 2.md",
     "Untitled.md",
@@ -285,7 +284,6 @@
     "History/Untitled.md",
     "Business Foundations.md",
     "History",
-    "Untitled 3.md",
     "点滴.md",
     "Introdution to Psychology.md",
     "注意力.md",
