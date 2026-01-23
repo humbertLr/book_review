@@ -25,12 +25,14 @@
             "id": "943a66ec19a259fe",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20251221203653.png"
+                "file": "The Top of My Todo List.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251221203653"
+              "icon": "lucide-file",
+              "title": "The Top of My Todo List"
             }
           },
           {
@@ -276,10 +278,12 @@
   },
   "active": "943a66ec19a259fe",
   "lastOpenFiles": [
+    "Norbert Wiener&Warren McCuelloch.md",
+    "国王 武士 祭司 诗人.md",
+    "Pasted image 20251221203653.png",
     "Writing.md",
     "日语.md",
     "Untitled 2.md",
-    "Untitled.md",
     "History/Reading list.md",
     "History/Untitled.md",
     "Business Foundations.md",
@@ -295,17 +299,14 @@
     "科学饮食.md",
     "别想太多啦.md",
     "当下的力量.md",
-    "国王 武士 祭司 诗人.md",
     "过滤信息保持判断.md",
     "计算机网络.md",
     "结晶化过程.md",
     "The Top of My Todo List.md",
-    "Pasted image 20251221203653.png",
     "Pasted image 20251221203345.png",
     "Pasted image 20251221203001.png",
     "思考：快与慢.md",
     "查拉图斯特拉如是说.md",
-    "未来形而上学导论.md",
     "新建文本文档.txt",
     "111.txt",
     "Book"
