@@ -36,6 +36,30 @@
             }
           },
           {
+            "id": "4669645470aeb205",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Psychology/Pasted image 20251221203001.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251221203001"
+            }
+          },
+          {
+            "id": "0b1b7e921a5fa91b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20251221203345.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20251221203345"
+            }
+          },
+          {
             "id": "7ab80771276fe325",
             "type": "leaf",
             "state": {
@@ -116,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -278,6 +302,8 @@
   },
   "active": "9490359e31b55610",
   "lastOpenFiles": [
+    "Psychology/Pasted image 20251221203001.png",
+    "Psychology/Intimate Relationship.md",
     "How can we develop transfomative tools for thought.md",
     "Psychology/Introdution to Psychology.md",
     "Business&Finance",
@@ -310,11 +336,8 @@
     "Untitled 2.md",
     "History/Reading list.md",
     "History/Untitled.md",
-    "Business Foundations.md",
     "History",
-    "Psychology/Designing your life.md",
     "Pasted image 20251221203345.png",
-    "Pasted image 20251221203001.png",
     "新建文本文档.txt",
     "111.txt"
   ]
