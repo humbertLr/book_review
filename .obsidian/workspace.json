@@ -51,12 +51,14 @@
             "id": "0b1b7e921a5fa91b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Psychology/Pasted image 20251221203345.png"
+                "file": "点滴.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251221203345"
+              "icon": "lucide-file",
+              "title": "点滴"
             }
           },
           {
@@ -300,8 +302,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9490359e31b55610",
+  "active": "0b1b7e921a5fa91b",
   "lastOpenFiles": [
+    "Psychology/Pasted image 20251221203345.png",
     "Psychology/Pasted image 20251221203001.png",
     "Psychology/Intimate Relationship.md",
     "How can we develop transfomative tools for thought.md",
@@ -323,7 +326,7 @@
     "注意力.md",
     "Psychology/情绪管理.md",
     "Psychology/被讨厌的勇气.md",
-    "系统之美.md",
+    "thinking/系统之美.md",
     "Psychology",
     "Language",
     "Obsidian实践.md",
@@ -337,7 +340,6 @@
     "History/Reading list.md",
     "History/Untitled.md",
     "History",
-    "Psychology/Pasted image 20251221203345.png",
     "新建文本文档.txt",
     "111.txt"
   ]
