@@ -1,1 +1,1 @@
-全球tong
+全球通史 si'da'fu
