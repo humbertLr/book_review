@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Reading list.md",
+                "file": "History/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reading list"
+              "title": "Untitled"
             }
           },
           {
@@ -278,6 +278,7 @@
   },
   "active": "943a66ec19a259fe",
   "lastOpenFiles": [
+    "History/Reading list.md",
     "History/Untitled.md",
     "Business Foundations.md",
     "History",
@@ -288,7 +289,6 @@
     "情绪管理.md",
     "Designing your life.md",
     "Kevin O'leary.md",
-    "History/Reading list.md",
     "被讨厌的勇气.md",
     "判断框架.md",
     "科学饮食.md",
