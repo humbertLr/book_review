@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business Foundations.md",
+                "file": "Untitled 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Business Foundations"
+              "title": "Untitled 4"
             }
           },
           {
@@ -173,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "77cfc6c4f1f2d513",
@@ -279,11 +278,13 @@
   },
   "active": "943a66ec19a259fe",
   "lastOpenFiles": [
+    "History/Untitled.md",
+    "Business Foundations.md",
+    "History",
     "Untitled 3.md",
     "点滴.md",
     "Introdution to Psychology.md",
     "注意力.md",
-    "Business Foundations.md",
     "情绪管理.md",
     "Designing your life.md",
     "Kevin O'leary.md",
@@ -307,7 +308,6 @@
     "思考：快与慢.md",
     "查拉图斯特拉如是说.md",
     "未来形而上学导论.md",
-    "Analysis I.md",
     "新建文本文档.txt",
     "111.txt",
     "Book"
