@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "点滴.md",
+                "file": "The Top of My Todo List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "点滴"
+              "title": "The Top of My Todo List"
             }
           },
           {
@@ -276,8 +276,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9490359e31b55610",
+  "active": "943a66ec19a259fe",
   "lastOpenFiles": [
+    "点滴.md",
     "thinking/贫穷是被设计好的.md",
     "Philosophy/The big questions.md",
     "thinking",
@@ -306,7 +307,6 @@
     "History/Untitled.md",
     "Business Foundations.md",
     "History",
-    "点滴.md",
     "Introdution to Psychology.md",
     "Designing your life.md",
     "Kevin O'leary.md",
