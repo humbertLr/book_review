@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/被讨厌的勇气.md",
+                "file": "Psychology/情绪管理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "被讨厌的勇气"
+              "title": "情绪管理"
             }
           },
           {
@@ -276,8 +276,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9490359e31b55610",
+  "active": "943a66ec19a259fe",
   "lastOpenFiles": [
+    "Psychology/被讨厌的勇气.md",
     "系统之美.md",
     "Psychology",
     "Language",
@@ -298,10 +299,9 @@
     "点滴.md",
     "Introdution to Psychology.md",
     "注意力.md",
-    "情绪管理.md",
+    "Psychology/情绪管理.md",
     "Designing your life.md",
     "Kevin O'leary.md",
-    "Psychology/被讨厌的勇气.md",
     "判断框架.md",
     "科学饮食.md",
     "Psychology/别想太多啦.md",
