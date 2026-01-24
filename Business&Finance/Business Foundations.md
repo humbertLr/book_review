@@ -47,5 +47,6 @@ including socail gains like kinship
  3). Channels
  无自营销售
  依赖运营商
+ 企业统一采购
  
  
