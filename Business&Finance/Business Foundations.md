@@ -61,5 +61,7 @@ including socail gains like kinship
  BBM网络
  和运营商的谈判能力
  7). Key Partership
- 
+ 运营商
+ 企业，政府
+ 8). 
  
