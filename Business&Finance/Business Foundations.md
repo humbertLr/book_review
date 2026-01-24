@@ -45,7 +45,7 @@ including socail gains like kinship
  高效
  稳定
  BBM
- 个人用户更在意 
+ 个人用户更在意APP，流畅和体验
  3). Channels
  无自营销售
  依赖运营商
