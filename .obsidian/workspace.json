@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "Something unkonw.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "Something unkonw"
             }
           }
         ],
@@ -212,7 +212,7 @@
   },
   "active": "b4164c42ecfc5d52",
   "lastOpenFiles": [
-    "未命名.md",
+    "Something unkonw.md",
     "Career/就业.md",
     "Career",
     "Business&Finance/Business Foundations.md",
