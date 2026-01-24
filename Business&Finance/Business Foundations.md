@@ -44,5 +44,8 @@ including socail gains like kinship
  高效
  稳定
  BBM
- 3). 
+ 3). Channels
+ 无自营销售
+ 依赖运营商
+ 
  
