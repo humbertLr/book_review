@@ -30,5 +30,7 @@ including socail gains like kinship
  1).核心优势不能轻易放弃：系统失去了唯一性，就会进入规模竞争
  2). 把握技术窗口
  3). 敢于自己颠覆自己，不要等着别人颠覆
+ 巅峰期Blackberry的BMC
+ 
 
  
