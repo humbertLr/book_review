@@ -35,8 +35,8 @@ including socail gains like kinship
  **核心客户**
  企业客户（政府、金融机构、大型公司）
  企业 IT / CIO（真正的决策者)
- **次级客户**商务人士
-    
-- 新兴市场用户（BBM + PIN）
+ **次级客户**
+ 商务人士
+ 新兴市场用户（BBM + PIN）
 
  
