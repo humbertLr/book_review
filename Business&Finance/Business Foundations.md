@@ -69,7 +69,7 @@ including socail gains like kinship
  7). Key activities
  硬件优化
  网络压缩
- 活动对
+ 活动对用户已经不再重要
  7). Key Partership
  运营商
  企业，政府
