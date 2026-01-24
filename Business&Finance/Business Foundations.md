@@ -39,12 +39,13 @@ including socail gains like kinship
  商务人士
  新兴市场用户（BBM + PIN）
  真正的客户不是个人用户
- 客户群体逐渐向个人消费者 
+ 客户群体逐渐向个人消费者转移
  2). Value propositions
  安全
  高效
  稳定
  BBM
+ 个人用户更在意 
  3). Channels
  无自营销售
  依赖运营商
