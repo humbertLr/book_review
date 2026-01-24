@@ -52,5 +52,6 @@ including socail gains like kinship
  长期签约
  企业支持
  CIO信任关系强
- 高粘性+ 
+ 高粘性+低流动
+ 5). 
  
