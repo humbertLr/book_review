@@ -29,7 +29,7 @@ Key Resource
 ### Cost Structure
 anything you will spend, including time, money and so on
 ### Revenue Streams
-
+how's your gain
 
 
 
