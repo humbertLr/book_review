@@ -99,3 +99,5 @@ how's your gain
  收入下降，成本无法缩减
 ## 用BMC拆解人生
 本质：在长期市场内，出售个人能持续交付的价值
+1). Customer Segments
+你在为谁创造价值：
