@@ -13,4 +13,4 @@ Writing forces clarity. Learning something by teaching it.
 Showing your weakness is not weak
 If the leader admits uncertainty, it signals that the room is safe.
 
-Your job is not forever, but your netwo
+Your job is not forever, but your network is. 
