@@ -63,5 +63,7 @@ including socail gains like kinship
  7). Key Partership
  运营商
  企业，政府
- 8). 
+ 8). Cost structures
+ 研发，集中在硬件
+  
  
