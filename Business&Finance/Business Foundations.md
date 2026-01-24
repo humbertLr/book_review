@@ -23,7 +23,9 @@ Channels
 What can you provide to the customers, why will they choose you?
 ### Key Part
 Who's your friend when doing this, what do you do and what resources you have?
-Key Partn
+Key Partnership
+Key activities
+
 
 
 
