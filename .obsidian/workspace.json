@@ -11,10 +11,14 @@
             "id": "9156bca0d20f4f08",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Career/就业.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "就业"
             }
           },
           {
@@ -31,8 +35,7 @@
               "title": "Business Foundations"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,10 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33a9e9135fac63de",
+  "active": "9156bca0d20f4f08",
   "lastOpenFiles": [
-    "极度分裂.md",
+    "Career/就业.md",
+    "Career",
     "Business&Finance/Business Foundations.md",
+    "极度分裂.md",
     "History/Reading list.md",
     "Computer science/计算机网络.md",
     "Analysis I.md",
@@ -229,8 +234,6 @@
     "Philosophy/Rationality.md",
     "Psychology/Pasted image 20251221203653.png",
     "Psychology/国王 武士 祭司 诗人.md",
-    "Writing.md",
-    "History",
-    "新建文本文档.txt"
+    "History"
   ]
 }
