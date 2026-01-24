@@ -18,6 +18,6 @@ including socail gains like kinship
  2). 战略信誉的破产：iphone killer storm的失败，使得战略盟友转向
  3). 技术转型慢：操作系统的转变决策慢，时间拖后；在技术行业，晚到的正确也会成为错误
  4). Playbook称为资源黑洞
- 5).  
+ 5). 内部战略
 
  
