@@ -11,4 +11,4 @@ Don't spend your energy and focus on what you can't change.
 Writing forces clarity. Learning something by teaching it. 
 
 Showing your weakness is not weak
-If the leader 
+If the leader admits uncertainty, it signals th
