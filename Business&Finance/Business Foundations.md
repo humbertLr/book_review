@@ -122,4 +122,5 @@ how's your gain
 增长性活动有助于创造未来
 8). Key Parterships
 你在和谁共同成长？
-9). 
+9). Cost structure
+你的人生成本是什么？时间、注意力、金钱、情绪
