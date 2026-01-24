@@ -25,7 +25,7 @@ What can you provide to the customers, why will they choose you?
 Who's your friend when doing this, what do you do and what resources you have?
 Key Partnership
 Key activities
-
+Key Resource
 
 
 
