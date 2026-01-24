@@ -13,7 +13,7 @@ avoid the pains in doing that job
 including socail gains like kinship
 
 # Module 2: Business Model Canvas, BMC
-## Parts
+## Parts (9 building blocks)
 ### Customer Part
 Who are your customers, how do you find them, how's your relationship?
 Customer Segments
@@ -30,9 +30,6 @@ Key Resource
 anything you will spend, including time, money and so on
 ### Revenue Streams
 how's your gain
-
-
-
  ## Blackberry案例
  事件层
  1). 竞争维度的转变：iphone的出现让竞争从硬件+企业安全转向了软件生态+操作系统+用户体验；RIM认识到了这一点，但在行动层面没有执行。
