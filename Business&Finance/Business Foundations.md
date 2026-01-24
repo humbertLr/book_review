@@ -33,9 +33,7 @@ including socail gains like kinship
  巅峰期Blackberry的BMC
  1). Customer Segments
  **核心客户**
-企业客户（政府、金融机构、大型公司）
-    
-- 企业 IT / CIO（真正的决策者）
+ 企业客户（政府、金融机构、大型公司）'企业 IT / CIO（真正的决策者）
     
 
 **次级客户**
