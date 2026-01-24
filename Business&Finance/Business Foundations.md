@@ -117,4 +117,4 @@ how's your gain
 6). Key Resources
 你最核心的资源是什么？
 要能够反复调用，不单单是拥有它
-7). 
+7). Key Activities
