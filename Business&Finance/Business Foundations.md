@@ -58,5 +58,7 @@ including socail gains like kinship
  6). Key Resources
  NOC
  安全协议
+ BBM网络
+ 和运营商的谈判能力
  
  
