@@ -14,6 +14,5 @@ including socail gains like kinship
 
 # Module 2: Business Model Canvas, BMC
 $$\int e^{t^2}\,dt$$ 
-jsdaflj
-    jlskdjfskj()
+js
 sljfsjf
