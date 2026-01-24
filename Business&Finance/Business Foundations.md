@@ -108,4 +108,5 @@ how's your gain
 找到自己的稀缺价值
 3). Channels
 你是如何被看见的？渠道是否足够丰富？
-4). 
+4). Customer Relationships
+你和客户的关系如何，是一次性交付，长期合作还是
