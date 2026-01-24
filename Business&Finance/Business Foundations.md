@@ -39,5 +39,6 @@ including socail gains like kinship
  商务人士
  新兴市场用户（BBM + PIN）
  真正的客户不是个人用户
- 2). Value 
+ 2). Value propositions
+ 
  
