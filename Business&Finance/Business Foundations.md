@@ -65,5 +65,6 @@ including socail gains like kinship
  企业，政府
  8). Cost structures
  研发，集中在硬件
+ 销售团队
   
  
