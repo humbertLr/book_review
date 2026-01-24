@@ -66,6 +66,10 @@ including socail gains like kinship
  BBM网络
  NOC变成成本负担，专有系统变成生态劣势
  和运营商的谈判能力
+ 7). Key activities
+ 硬件优化
+ 网络压缩
+ 活动对
  7). Key Partership
  运营商
  企业，政府
