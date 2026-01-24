@@ -70,11 +70,11 @@ including socail gains like kinship
  硬件优化
  网络压缩
  活动对用户已经不再重要
- 7). Key Partership
+ 8). Key Partership
  运营商
  企业，政府
  运营商转向，合作关系变成博弈
- 8). Cost structures
+ 9). Cost structures
  研发，集中在硬件
  销售团队
  运营网络
