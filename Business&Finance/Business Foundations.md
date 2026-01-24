@@ -20,7 +20,9 @@ Customer Segments
 Cutomer Relationships
 Channels
 ### Value Proposition
-What can you provide to the customers, why will they c
+What can you provide to the customers, why will they choose you?
+### Key Part
+
 
 
 
