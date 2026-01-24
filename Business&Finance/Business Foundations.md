@@ -47,7 +47,7 @@ how's your gain
  1).核心优势不能轻易放弃：系统失去了唯一性，就会进入规模竞争
  2). 把握技术窗口
  3). 敢于自己颠覆自己，不要等着别人颠覆
- 期Blackberry的BMC
+### 期Blackberry的BMC
  1). Customer Segments
  **核心客户**
  企业客户（政府、金融机构、大型公司）
