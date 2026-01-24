@@ -38,5 +38,6 @@ including socail gains like kinship
  **次级客户**
  商务人士
  新兴市场用户（BBM + PIN）
- 真正的客户 
+ 真正的客户不是个人用户
+ 2). Value 
  
