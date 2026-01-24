@@ -106,4 +106,5 @@ how's your gain
 2). Value Propositions
 把自己当作一个公司或商品，你的卖点是什么，别人为什么愿意接受？
 找到自己的稀缺价值
-3). 
+3). Channels
+你是如何被看见的
