@@ -120,3 +120,4 @@ how's your gain
 7). Key Activities
 你每天主要在做什么？
 增长性活动有助于创造未来
+8). Key Parterships
