@@ -1,2 +1,2 @@
 Bias towards action
-perfect solution emer
+perfect solution rarely emerges from 
