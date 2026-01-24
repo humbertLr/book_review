@@ -22,7 +22,7 @@ Channels
 ### Value Proposition
 What can you provide to the customers, why will they choose you?
 ### Key Part
-Who's your friend when doing this, 
+Who's your friend when doing this, what do you do 
 
 
 
