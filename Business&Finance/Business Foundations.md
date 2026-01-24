@@ -49,5 +49,7 @@ including socail gains like kinship
  依赖运营商
  企业统一采购
  4). Customer Relationships
- 长期 
+ 长期签约
+ 企业支持
+ CIO 
  
