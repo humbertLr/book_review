@@ -14,3 +14,5 @@ Showing your weakness is not weak
 If the leader admits uncertainty, it signals that the room is safe.
 
 Your job is not forever, but your network is. 
+
+Stay curious, stay humble, and remember that the work is always about people - the users you’re building for and the teammates you’re building with.
