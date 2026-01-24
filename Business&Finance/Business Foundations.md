@@ -55,5 +55,7 @@ including socail gains like kinship
  高粘性+低流动
  5). Revenue Streams
  服务费很高
- 6). Key 
+ 6). Key Resources
+ NOC
+ 
  
