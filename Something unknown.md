@@ -6,3 +6,4 @@ Clarity is seniority
 Clarity is more important than cleverness when coding
 
 Focus on what you can control. Ignore what you can't change
+What you can't
