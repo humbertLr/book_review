@@ -29,5 +29,6 @@ including socail gains like kinship
  可迁移启示
  1).核心优势不能轻易放弃：系统失去了唯一性，就会进入规模竞争
  2). 把握技术窗口
+ 3). 
 
  
