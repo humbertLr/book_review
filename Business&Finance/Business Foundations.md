@@ -64,7 +64,7 @@ including socail gains like kinship
  NOC
  安全协议
  BBM网络
- NOC变成 
+ NOC变成成本负担，
  和运营商的谈判能力
  7). Key Partership
  运营商
