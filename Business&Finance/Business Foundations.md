@@ -40,5 +40,9 @@ including socail gains like kinship
  新兴市场用户（BBM + PIN）
  真正的客户不是个人用户
  2). Value propositions
- 
+ 安全
+ 高效
+ 稳定
+ BBM
+ 3). 
  
