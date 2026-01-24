@@ -73,6 +73,7 @@ including socail gains like kinship
  7). Key Partership
  运营商
  企业，政府
+ 运营商转向，合作关系变成博弈
  8). Cost structures
  研发，集中在硬件
  销售团队
