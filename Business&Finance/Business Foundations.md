@@ -118,3 +118,4 @@ how's your gain
 你最核心的资源是什么？
 要能够反复调用，不单单是拥有它
 7). Key Activities
+你每天主要的 
