@@ -56,6 +56,7 @@ including socail gains like kinship
  企业支持
  CIO信任关系强
  高粘性+低流动
+ 用户关系崩溃
  5). Revenue Streams
  服务费很高
  6). Key Resources
