@@ -59,6 +59,7 @@ including socail gains like kinship
  用户关系崩溃
  5). Revenue Streams
  服务费很高
+ 服务费模式被否定
  6). Key Resources
  NOC
  安全协议
