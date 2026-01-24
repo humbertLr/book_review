@@ -7,4 +7,5 @@ start with the customer
 The pain to be avoided
 avoid the pains in doing that job
 ## 1.3 The value proposition canvas 
-### The 
+### The job to be done
+### The pain 
