@@ -66,5 +66,5 @@ including socail gains like kinship
  8). Cost structures
  研发，集中在硬件
  销售团队
-  
+ 运营网络
  
