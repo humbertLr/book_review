@@ -50,6 +50,7 @@ including socail gains like kinship
  无自营销售
  依赖运营商
  企业统一采购
+ 合作伙伴转向，运营商不再偏爱
  4). Customer Relationships
  长期签约
  企业支持
