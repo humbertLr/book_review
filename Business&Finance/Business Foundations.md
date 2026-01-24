@@ -9,4 +9,5 @@ avoid the pains in doing that job
 ## 1.3 The value proposition canvas 
 ### The job to be done
 ### The pain to be avoided
-### The gain to be 
+### The gains to be captured
+including socail gains like kinship
