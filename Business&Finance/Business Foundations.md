@@ -12,4 +12,4 @@ avoid the pains in doing that job
 ### The gains to be captured
 including socail gains like kinship
 
-# Module 2: 
+# Module 2: Business Model Canvas, BMC
