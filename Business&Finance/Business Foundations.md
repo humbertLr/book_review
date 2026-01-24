@@ -26,6 +26,10 @@ Who's your friend when doing this, what do you do and what resources you have?
 Key Partnership
 Key Activities
 Key Resource
+### Cost Structure
+anything you will spend, including time, money and so on
+### Revenue Streams
+
 
 
 
