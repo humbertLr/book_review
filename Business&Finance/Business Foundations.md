@@ -15,7 +15,7 @@ including socail gains like kinship
 # Module 2: Business Model Canvas, BMC
 ## Parts
 ### Customer Part
-Who are your customers, how do you 
+Who are your customers, how do you find them, 
  ## Blackberry案例
  事件层
  1). 竞争维度的转变：iphone的出现让竞争从硬件+企业安全转向了软件生态+操作系统+用户体验；RIM认识到了这一点，但在行动层面没有执行。
