@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Something unkonw.md",
+                "file": "Something unknown.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Something unkonw"
+              "title": "Something unknown"
             }
           }
         ],
@@ -212,7 +212,7 @@
   },
   "active": "b4164c42ecfc5d52",
   "lastOpenFiles": [
-    "Something unkonw.md",
+    "Something unknown.md",
     "Career/就业.md",
     "Career",
     "Business&Finance/Business Foundations.md",
