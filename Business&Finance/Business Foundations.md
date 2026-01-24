@@ -31,6 +31,6 @@ including socail gains like kinship
  2). 把握技术窗口
  3). 敢于自己颠覆自己，不要等着别人颠覆
  巅峰期Blackberry的BMC
- 
+ 1.
 
  
