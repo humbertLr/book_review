@@ -51,5 +51,6 @@ including socail gains like kinship
  4). Customer Relationships
  长期签约
  企业支持
- CIO 
+ CIO信任关系强
+ 高粘性+ 
  
