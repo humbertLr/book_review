@@ -6,6 +6,6 @@ Life-cycle theory: Individuals build up a store of wealth during their younger w
 ## Harry Max Markowitz
 Nobel Prize for Economics in 1990
 Mean-Variance Analysis
-## Morgan ho
+## Morgan Horsel
 Behavioral Finance
 
