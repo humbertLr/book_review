@@ -13,4 +13,4 @@ Psychology of Money
 
 Behavioral Finance
 
-Fooled by Randomness: The Hidden Role of Chance in Life and in the
+Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets
