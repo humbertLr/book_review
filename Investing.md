@@ -7,6 +7,7 @@ Life-cycle theory: Individuals build up a store of wealth during their younger w
 Nobel Prize for Economics in 1990
 Mean-Variance Analysis
 ## Morgan Horsel
+Psychology of Money
 
 Behavioral Finance
 
