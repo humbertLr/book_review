@@ -8,6 +8,8 @@ Nobel Prize for Economics in 1990
 Mean-Variance Analysis
 ## Morgan Horsel
 Psychology of Money
+## Howard Marks
+
 
 Behavioral Finance
 
