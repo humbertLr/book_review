@@ -50,21 +50,21 @@
             }
           },
           {
-            "id": "72c4c0e3fdb82931",
+            "id": "a907e09ae182c8b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "青少年跑鞋.md",
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "青少年跑鞋"
+              "title": "未命名"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "77cfc6c4f1f2d513",
@@ -224,10 +223,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b4164c42ecfc5d52",
+  "active": "a907e09ae182c8b1",
   "lastOpenFiles": [
-    "青少年跑鞋.md",
+    "未命名.md",
     "Something unknown.md",
+    "青少年跑鞋.md",
     "Career/就业.md",
     "Career",
     "Business&Finance/Business Foundations.md",
@@ -261,7 +261,6 @@
     "thinking/系统之美.md",
     "Psychology",
     "Language",
-    "Obsidian实践.md",
     "Computer science",
     "Psychology/Pasted image 20251221203653.png",
     "History"
