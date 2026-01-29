@@ -13,4 +13,4 @@ Psychology of Money
 
 Behavioral Finance
 
-Boo
+Fooled by Randomness
