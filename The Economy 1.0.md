@@ -1,2 +1,2 @@
 # UNIT 1 THE CAPITALIST REVOLUTION
-How capitalism revolutionized the way we lived
+How capitalism revolutionized the way we live, and how economists attempts to 
