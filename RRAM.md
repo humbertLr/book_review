@@ -53,4 +53,5 @@ RRAM是更好，还是唯一可行
 - DAC/Hot chips/NeurlIPS(IMC)
 ## 3 商业现实调查
 谁真的在卖RRAM
-- eNVM: TSMC，UMC，Global
+- eNVM: TSMC，UMC，GlobalFoundries
+- 
