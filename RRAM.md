@@ -29,4 +29,4 @@ RRAM是更好，还是唯一可行
 主要落点
 - eFlash替代
 - AI加速器中的In-Memory Computing
-  Neuromo
+  Neuromorphic computing，偏学术
