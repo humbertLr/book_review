@@ -12,4 +12,4 @@
 从Narure/APL到IEDM/VLSI的分界线
 问题
 - 是否CMOS compatible
-- 是否能做到waf
+- 是否能做到wafer-level uni
