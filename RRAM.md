@@ -11,4 +11,5 @@
 ## 2 工程层-能否规模化制造
 从Narure/APL到IEDM/VLSI的分界线
 问题
-- 是否CMOS compati
+- 是否CMOS compatible
+- 是否能做到waf
