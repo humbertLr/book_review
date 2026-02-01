@@ -28,4 +28,5 @@ RRAM的历史就是：单器件漂亮-阵列灾难
 RRAM是更好，还是唯一可行
 主要落点
 - eFlash替代
-- AI加速器中的
+- AI加速器中的In-Memory Computing
+  Neuromo
