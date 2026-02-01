@@ -54,4 +54,4 @@ RRAM是更好，还是唯一可行
 ## 3 商业现实调查
 谁真的在卖RRAM
 - eNVM: TSMC，UMC，GlobalFoundries
-- 
+- 产品公司：Renesas、In
