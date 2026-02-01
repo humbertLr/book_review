@@ -55,4 +55,4 @@ RRAM是更好，还是唯一可行
 谁真的在卖RRAM
 - eNVM: TSMC，UMC，GlobalFoundries
 - 产品公司：Renesas、Infineon
-- IP/
+- IP/材料：Weebit Nano/
