@@ -34,4 +34,4 @@ RRAM是更好，还是唯一可行
 问题
 - 哪些大厂真的在投
 - 是试验线还是量产线
-- 是Research division还是Produb
+- 是Research division还是Product division
