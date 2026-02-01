@@ -57,4 +57,5 @@ RRAM是更好，还是唯一可行
 - 产品公司：Renesas、Infineon
 - IP/材料：Weebit Nano、crossbar
 关心
-- 是否有
+- 是否有datasheet
+- 是否有客户
