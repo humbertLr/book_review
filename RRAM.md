@@ -15,4 +15,4 @@
 - 是否能做到wafer-level uniformity
 - 是否支持BEOL集成
 - 是否可控forming
-RRAM的历史就是： 
+RRAM的历史就是：单器件 
