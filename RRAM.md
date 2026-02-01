@@ -69,4 +69,4 @@ RRAM是更好，还是唯一可行
 - Flash
 - MRAM
 - PCM
-- 
+- SRAM
