@@ -13,4 +13,5 @@
 问题
 - 是否CMOS compatible
 - 是否能做到wafer-level uniformity
-- 是否支持BEOL
+- 是否支持BEOL集成
+- 是否可控forming
