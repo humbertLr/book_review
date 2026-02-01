@@ -31,3 +31,5 @@ RRAM是更好，还是唯一可行
 - AI加速器中的In-Memory Computing
   Neuromorphic computing，偏学术
 ## 5 产业与生态-是否有人愿意赌？
+问题
+- 哪些大厂真的 
