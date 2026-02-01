@@ -23,3 +23,4 @@ RRAM的历史就是：单器件漂亮-阵列灾难
 - 是否有明确的product spec
 - 是standalone memory还是eNVM/Embedded
 - 是否有明确的target node
+## 4 应用层-谁 
