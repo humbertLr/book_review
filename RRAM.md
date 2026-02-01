@@ -56,3 +56,5 @@ RRAM是更好，还是唯一可行
 - eNVM: TSMC，UMC，GlobalFoundries
 - 产品公司：Renesas、Infineon
 - IP/材料：Weebit Nano、crossbar
+关心
+- 是否有
