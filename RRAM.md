@@ -68,4 +68,5 @@ RRAM是更好，还是唯一可行
 横向对比
 - Flash
 - MRAM
+- PCM
 - 
