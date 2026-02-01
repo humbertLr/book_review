@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "公司年报阅读"
             }
+          },
+          {
+            "id": "686981c74427d4ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RRAM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RRAM"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -211,8 +225,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1af92cbf126c0bb1",
+  "active": "686981c74427d4ed",
   "lastOpenFiles": [
+    "RRAM.md",
     "公司年报阅读.md",
     "投资学习.md",
     "置身事内.md",
@@ -244,7 +259,6 @@
     "Untitled.md",
     "The Top of My Todo List.md",
     "thinking/贫穷是被设计好的.md",
-    "Philosophy/The big questions.md",
     "thinking",
     "Philosophy",
     "Society",
