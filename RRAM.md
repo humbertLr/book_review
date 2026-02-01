@@ -9,4 +9,5 @@
 核心问题：工作机理天然是随机的
 
 ## 2 工程层-能否规模化制造
-从Narure/APL到IEDM/VLSI的 
+从Narure/APL到IEDM/VLSI的分界线
+问题
