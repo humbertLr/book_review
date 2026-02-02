@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "极度分裂.md",
+                "file": "The Top of My Todo List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "极度分裂"
+              "title": "The Top of My Todo List"
             }
           }
         ],
@@ -240,7 +240,9 @@
   },
   "active": "71b68c83709d0039",
   "lastOpenFiles": [
+    "Writing.md",
     "点滴.md",
+    "极度分裂.md",
     "年报分析/歌尔股份.md",
     "未命名.md",
     "年报分析",
@@ -258,7 +260,6 @@
     "Pasted image 20260131131851.png",
     "青少年跑鞋.md",
     "Career",
-    "极度分裂.md",
     "History/Reading list.md",
     "Computer science/计算机网络.md",
     "Analysis I.md",
