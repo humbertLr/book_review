@@ -77,8 +77,7 @@
               "title": "智慧社会"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,7 +238,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "372191ba00e48bba",
+  "active": "109c72198b8bd36f",
   "lastOpenFiles": [
     "智慧社会.md",
     "RRAM.md",
