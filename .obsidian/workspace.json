@@ -77,8 +77,7 @@
               "title": "Norbert Wiener&Warren McCuelloch"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "77cfc6c4f1f2d513",
@@ -238,8 +238,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "71b68c83709d0039",
+  "active": "109c72198b8bd36f",
   "lastOpenFiles": [
+    "Norbert Wiener&Warren McCuelloch.md",
     "Poor Charlie's Almanack.md",
     "The Economy 1.0.md",
     "The Top of My Todo List.md",
@@ -264,7 +265,6 @@
     "History/Reading list.md",
     "Computer science/计算机网络.md",
     "Analysis I.md",
-    "Norbert Wiener&Warren McCuelloch.md",
     "Kevin O'leary.md",
     "How can we develop transfomative tools for thought.md",
     "注意力.md",
