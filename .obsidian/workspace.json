@@ -91,8 +91,7 @@
               "title": "RRAM技术调研"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +148,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "77cfc6c4f1f2d513",
@@ -252,10 +252,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "abb9106656cdae4e",
+  "active": "109c72198b8bd36f",
   "lastOpenFiles": [
-    "Something unknown.md",
     "RRAM技术调研.md",
+    "Something unknown.md",
     "RRAM.md",
     "注意力.md",
     "置身事内.md",
