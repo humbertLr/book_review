@@ -58,4 +58,5 @@
 - Turn the ship around
 ## Practical steps
 - lead a strategic initiative in your organization
-- Consult for startups or small 
+- Consult for startups or small businesses
+# Phase 6: Be
