@@ -28,4 +28,14 @@
 
 # Phase 3: Mastering Analytical Tools and Frameworks
 ## Goal: Develop expertise in strategic tools
+- learn key frameworks, Porter's five forces, the value proposition canvas, OKRs
+## Books
+- Mesure what matters by John Doerr
+- Strategic Management: Concepts and Cases by Fred R. David
+## Courses
+- Wharton's Business Analytics on Coursera
+- DataCamp: Data-Driven Decision Making
+## Hands-On Practice
+- Apply frameworks to real-world scenarios
+# Phase 4: Advanced Strategy and Thought Leadership
 
