@@ -42,3 +42,14 @@
 - Focus areas, system thinking, innovation strategies, managing uncertainty and risk
 ## Books
 - The innovator's dilemma
+- Thinking in systems
+- Scenario Planning
+## Courses
+- MIT Sloan Executive Education: Business Dynamics
+- edX: Corporate Innovaton by the University of Queensland
+## Networking
+- Join strategy forums (e.g., Strategic Management Society)
+- Attend industry conferences
+# Phase 5: Specialization and Real-World Application
+## Goal: Build a niche or diversify into adjacent fields
+- Specialize: 
