@@ -7,3 +7,4 @@
 - Blue Ocean Strategy
 ## Courses
 - Harvard Business School Online: Business Strategy
+- Coursera: Fouda
