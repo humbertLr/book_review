@@ -52,4 +52,5 @@
 - Attend industry conferences
 # Phase 5: Specialization and Real-World Application
 ## Goal: Build a niche or diversify into adjacent fields
-- Specialize: Business strategy, Product strategy, Organiz
+- Specialize: Business strategy, Product strategy, Organizational strategy
+## Books
