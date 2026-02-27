@@ -38,4 +38,5 @@
 ## Hands-On Practice
 - Apply frameworks to real-world scenarios
 # Phase 4: Advanced Strategy and Thought Leadership
-## Goal: Develop innovative and forward-thinking str
+## Goal: Develop innovative and forward-thinking strategies
+- 
