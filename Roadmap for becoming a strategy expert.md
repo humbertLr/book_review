@@ -12,4 +12,4 @@
 - Analytical thinking
 - Understanding SWOT, competitive analysis, and industry trends
 # Phase 2: Industry and Context-Specific Knowledge
-## Goal: learn how strategy 
+## Goal: learn how strategy differs across domains 
