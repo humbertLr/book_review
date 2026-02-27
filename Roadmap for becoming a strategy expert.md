@@ -62,4 +62,4 @@
 # Phase 6: Becoming a thought leader
 ## Goal: Share your expertise and shape the future of strategy
 - write: publish articles, white papers, or even books; contribute to platforms like harvard business review or medium
-- teach: 
+- teach: create a course or workshop, mento
