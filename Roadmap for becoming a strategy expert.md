@@ -19,4 +19,4 @@
     - Course: INSEAD's Business Strategy and Financial Performance
 2. Product strategy understand user needs, product lifecycle, and market fit.
     - Book: Inspired by Marty Cagan
-    - Course: Reforge's Produc
+    - Course: Reforge's Product Strategy Pro
