@@ -3,4 +3,5 @@
 - understand what strategy is, learn the difference between strategy, tactics, and goals, study historical contexts of strategic thinking
 ## Books
 - Good strategy bad strategy
-- The are 
+- The art of strategy
+- Bu
