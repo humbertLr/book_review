@@ -54,3 +54,5 @@
 ## Goal: Build a niche or diversify into adjacent fields
 - Specialize: Business strategy, Product strategy, Organizational strategy
 ## Books
+- Platform Revolution
+- Turn the 
