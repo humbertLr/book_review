@@ -59,4 +59,5 @@
 ## Practical steps
 - lead a strategic initiative in your organization
 - Consult for startups or small businesses
-# Phase 6: Be
+# Phase 6: Becoming a thought leader
+##　Ｇ
