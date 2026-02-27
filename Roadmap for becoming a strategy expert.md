@@ -39,4 +39,6 @@
 - Apply frameworks to real-world scenarios
 # Phase 4: Advanced Strategy and Thought Leadership
 ## Goal: Develop innovative and forward-thinking strategies
-- Focus areas, system thinking, innovation strategies, managing uncertainty
+- Focus areas, system thinking, innovation strategies, managing uncertainty and risk
+## Books
+
