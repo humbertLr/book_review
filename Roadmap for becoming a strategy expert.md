@@ -41,4 +41,4 @@
 ## Goal: Develop innovative and forward-thinking strategies
 - Focus areas, system thinking, innovation strategies, managing uncertainty and risk
 ## Books
-
+- The innovator's dilemma
