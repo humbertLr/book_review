@@ -6,4 +6,4 @@
 - The art of strategy
 - Blue Ocean Strategy
 ## Courses
-- Harva
+- Harvard Business School On
