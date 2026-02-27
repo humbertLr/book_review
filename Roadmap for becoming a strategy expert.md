@@ -1,1 +1,2 @@
-# Phase 1: Fundamentals of Stra
+# Phase 1: Fundamentals of Strategy
+## Goal
