@@ -20,4 +20,4 @@
 2. Product strategy understand user needs, product lifecycle, and market fit.
     - Book: Inspired by Marty Cagan
     - Course: Reforge's Product Strategy Program
-3. 
+3. Organizational Stra
