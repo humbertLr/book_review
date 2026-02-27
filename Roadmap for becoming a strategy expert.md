@@ -63,4 +63,4 @@
 ## Goal: Share your expertise and shape the future of strategy
 - write: publish articles, white papers, or even books; contribute to platforms like harvard business review or medium
 - teach: create a course or workshop, mentor junior strategists
-- network: join think tanks or strategy-focused groups, buid
+- network: join think tanks or strategy-focused groups, build a strong personal brand on Linkedl
