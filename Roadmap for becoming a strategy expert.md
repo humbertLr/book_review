@@ -11,4 +11,4 @@
 ## Key Skills
 - Analytical thinking
 - Understanding SWOT, competitive analysis, and industry trends
-# Phase 2: Industry a
+# Phase 2: Industry and Context-s
