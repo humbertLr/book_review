@@ -57,4 +57,4 @@
 - Platform Revolution
 - Turn the ship around
 ## Practical steps
-- lead a stra
+- lead a strategic initiative in your organi
