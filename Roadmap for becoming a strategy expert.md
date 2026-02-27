@@ -17,4 +17,5 @@
     - Business strategy focus on value chains, competitive advantage, and market positioning
     - Book: Competitive strategy by Michael Porter
     - Course: INSEAD's Business Strategy and Financial Performance
-2. Product strategy understand user needs, product lifecycle, and market
+2. Product strategy understand user needs, product lifecycle, and market fit.
+    - 
