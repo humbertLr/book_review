@@ -21,3 +21,4 @@
     - Book: Inspired by Marty Cagan
     - Course: Reforge's Product Strategy Program
 3. Organizational Strategy Learn leadership alignment, change management, and resource allocation
+    - BooK: 
