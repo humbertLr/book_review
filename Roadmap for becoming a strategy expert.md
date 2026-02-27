@@ -15,6 +15,6 @@
 ## Goal
 1. learn how strategy differs across domains (business, product, or organizational)
     - Business strategy focus on value chains, competitive advantage, and market positioning
-    - booCompetitive strategy by Michael Porter
-## Course
+    - Book: Competitive strategy by Michael Porter
+- Course
 - INSEAD's Business Strategy and Financial Performance
