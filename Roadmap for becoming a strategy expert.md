@@ -57,4 +57,5 @@
 - Platform Revolution
 - Turn the ship around
 ## Practical steps
-- lead a strategic initiative in your organi
+- lead a strategic initiative in your organization
+- Consult for startups or small 
