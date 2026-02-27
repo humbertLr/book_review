@@ -10,4 +10,5 @@
 - Coursera: Foudations of Business Strategy by the University of Virginia
 ## Key Skills
 - Analytical thinking
-- Understanding SWOT, competitive analysis, and ind
+- Understanding SWOT, competitive analysis, and industry trends
+# Phase 2
