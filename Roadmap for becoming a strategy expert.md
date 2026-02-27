@@ -22,4 +22,4 @@
     - Course: Reforge's Product Strategy Program
 3. Organizational Strategy Learn leadership alignment, change management, and resource allocation
     - BooK: Playing to Win
-    - Course: Coursera's Organizational Desig
+    - Course: Coursera's Organizational Design and management by 
