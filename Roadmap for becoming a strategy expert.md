@@ -9,4 +9,4 @@
 - Harvard Business School Online: Business Strategy
 - Coursera: Foudations of Business Strategy by the University of Virginia
 ## Key Skills
-An
+- Analytic
