@@ -55,4 +55,5 @@
 - Specialize: Business strategy, Product strategy, Organizational strategy
 ## Books
 - Platform Revolution
-- Turn the 
+- Turn the ship around
+## Practival
