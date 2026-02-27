@@ -6,3 +6,4 @@
 - The art of strategy
 - Blue Ocean Strategy
 ## Courses
+- Harva
