@@ -4,4 +4,4 @@
 ## Books
 - Good strategy bad strategy
 - The art of strategy
-- Bu
+- Blue Ocean Strategy
