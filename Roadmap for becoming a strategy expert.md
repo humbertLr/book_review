@@ -56,4 +56,5 @@
 ## Books
 - Platform Revolution
 - Turn the ship around
-## Practival
+## Practical steps
+- lead a stra
