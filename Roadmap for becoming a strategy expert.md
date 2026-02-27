@@ -12,4 +12,4 @@
 - Analytical thinking
 - Understanding SWOT, competitive analysis, and industry trends
 # Phase 2: Industry and Context-Specific Knowledge
-## Goal: lear
+## Goal: learn how strategy 
