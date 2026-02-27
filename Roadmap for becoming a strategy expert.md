@@ -18,4 +18,5 @@
     - Book: Competitive strategy by Michael Porter
     - Course: INSEAD's Business Strategy and Financial Performance
 2. Product strategy understand user needs, product lifecycle, and market fit.
-    - Book: Inspired b
+    - Book: Inspired by Marty Cagan
+    - C
