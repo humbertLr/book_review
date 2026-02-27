@@ -61,4 +61,5 @@
 - Consult for startups or small businesses
 # Phase 6: Becoming a thought leader
 ## Goal: Share your expertise and shape the future of strategy
-- write: publi
+- write: publish articles, white papers, or even books
+- 
