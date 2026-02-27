@@ -6,4 +6,4 @@
 - The art of strategy
 - Blue Ocean Strategy
 ## Courses
-- Harvard Business School On
+- Harvard Business School Online: Business Strategy
