@@ -7,4 +7,5 @@
 - Blue Ocean Strategy
 ## Courses
 - Harvard Business School Online: Business Strategy
-- Coursera: Foudations of Business Strategy by the Univers
+- Coursera: Foudations of Business Strategy by the University of Virginia
+## 
