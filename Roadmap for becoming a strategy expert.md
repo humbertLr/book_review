@@ -24,4 +24,4 @@
     - BooK: Playing to Win
     - Course: Coursera's Organizational Design and management by the university of Illinois
 4. Practical Application
-    1. 
+    - Analyze case studies in your cho
