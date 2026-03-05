@@ -118,9 +118,23 @@
               "icon": "lucide-file",
               "title": "未命名"
             }
+          },
+          {
+            "id": "6e9a6d287bea2ac2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "人形机器人.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "人形机器人"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -281,8 +295,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4de05f4148097f46",
+  "active": "6e9a6d287bea2ac2",
   "lastOpenFiles": [
+    "人形机器人.md",
     "未命名.md",
     "Roadmap for becoming a strategy expert.md",
     "置身事内.md",
@@ -311,7 +326,6 @@
     "Career",
     "History/Reading list.md",
     "Computer science/计算机网络.md",
-    "Analysis I.md",
     "Mathmatics",
     "Psychology/Pasted image 20251221203345.png",
     "Psychology/Pasted image 20251221203001.png",
