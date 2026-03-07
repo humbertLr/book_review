@@ -10,3 +10,6 @@ How AI implementation demands rethinking team design, talent models, education, 
 Organizations that treat AI as a catalyst for reimagining work-not just accelerating it-will achieve competitive advantage
 
 It's overhyped in the extremes, these narratives that job disappears or the idea that AI is just going to solve and fix everything overnight. It pushes people towards fear or denial, it's not super useful.
+
+underhyped
+understanding exactly how AI is going to change the complete structure of work, not just the tasks
