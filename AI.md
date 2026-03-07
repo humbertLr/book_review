@@ -15,4 +15,4 @@ underhyped
 understanding exactly how AI is going to change the complete structure of work, not just the tasks
 the entire role anyone is defined, how an entire team of people that have whose roles operate, how companies think about value, how companies think about what their value is in a world of AI
 
-It's not just an efficiency play, but it's something more: 
+It's not just an efficiency play, but it's something more: from 
