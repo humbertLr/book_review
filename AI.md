@@ -21,4 +21,4 @@ The markets rewards contribution, not just personality for its own sake
 
 everybody's job is a set of tasks
 break down your job into a set of taks and understand which set of tasks can AI most likely automate and which can it not automate. What if your job is just a set of automatable tasks
-parts that require judgment
+parts that require judgment or communication or empathy, AI is not good at that
