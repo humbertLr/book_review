@@ -1,1 +1,1 @@
-# How to get ahead 
+# How to get ahead in the age of AI
