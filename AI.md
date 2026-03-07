@@ -18,3 +18,5 @@ the entire role anyone is defined, how an entire team of people that have whose 
 It's not just an efficiency play, but it's something more: from AI adoption which make more efficient the work to redefine what people do
 
 The markets rewards contribution, not just personality for its own sake
+
+everybody's job is a set of tasks
