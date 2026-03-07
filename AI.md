@@ -6,3 +6,5 @@ How leaders can move beyond efficiency gains to truly reinvent how their organiz
 
 new book: Open to Work: Howt to get ahead in the age of AI
 How AI implementation demands rethinking team design, talent models, education, and culture
+
+Organizations that treat AI as a catalyst for reimagining work-not just accelerating it-will achieve competitive advantage
