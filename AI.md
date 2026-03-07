@@ -13,4 +13,4 @@ It's overhyped in the extremes, these narratives that job disappears or the idea
 
 underhyped
 understanding exactly how AI is going to change the complete structure of work, not just the tasks
-the entire role anyone is def
+the entire role anyone is defined, how an entire team of people that ha
