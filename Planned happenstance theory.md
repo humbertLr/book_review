@@ -1,3 +1,3 @@
 - Planned Happenstance: Constructing unexpected career opportunities
 - Luck is no accident
-- Career development and counseling: 
+- Career development and counseling: putting theory and research to work
