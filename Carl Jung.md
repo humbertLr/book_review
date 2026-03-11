@@ -1,2 +1,3 @@
 Man and his symbols
-Owning 
+Owning your own shadow
+Two essays on 
