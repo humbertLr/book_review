@@ -1,1 +1,2 @@
-- Planned Happenstance: Constructing unexpected career oppor
+- Planned Happenstance: Constructing unexpected career opportunities
+- 
