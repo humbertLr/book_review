@@ -39,10 +39,14 @@
             "id": "a0b461a32a46c5db",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/当下的力量.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "当下的力量"
             }
           }
         ],
