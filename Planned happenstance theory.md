@@ -1,2 +1,3 @@
 - Planned Happenstance: Constructing unexpected career opportunities
+- Luck is no accident
 - 
