@@ -47,4 +47,5 @@ prompt的本质不是提问，而是设计思考过程
 # Meta prompt
 本质：用一个prompt生成更好的prompt。
 Meta prompt -- 生成Task Prompt -- 执行任务
-## jie'ben'jie'g
+## 基本结构
+任务mu'bia
