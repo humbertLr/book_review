@@ -15,3 +15,9 @@ Prompt设计技巧
 2 设置目标读者：自动调整难度
 3 批判性分析：提高深度
 
+CLEAR Prompt
+context
+limits
+examples
+action
+result
