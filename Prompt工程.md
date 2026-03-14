@@ -6,3 +6,4 @@ Prompt = Role + Task + Process + Format + Constraints
 3 思考路径
 AI擅长按照步骤推理，需要涉及思考流程
 4 输出格式
+规定输出格式以避免xin'xi
