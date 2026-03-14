@@ -65,6 +65,7 @@ Meta prompt -- 生成Task Prompt -- 执行任务
 3. 指定输出格式
 4. 能得到深入分析
 请输出：
-5. 最优Prompt
-6. 该Prompt的设计逻辑
+1 最优Prompt  
+2 Prompt结构说明  
+3 如果需要可提供改进版本
 ```
