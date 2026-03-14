@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 1.md",
+                "file": "大语言模型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名 1"
+              "title": "大语言模型"
             }
           }
         ],
@@ -241,7 +241,7 @@
   },
   "active": "eb4cd31ba7fadf15",
   "lastOpenFiles": [
-    "未命名 1.md",
+    "大语言模型.md",
     "Prompt工程.md",
     "Psychology/当下的力量.md",
     "认知.md",
