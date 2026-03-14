@@ -4,3 +4,4 @@ Prompt = Role + Task + Process + Format + Constraints
 2 任务
 任务越具体，输出越稳定
 3 思考路径
+AI擅长按照步骤推理，需要涉及si'l
