@@ -80,5 +80,5 @@ Meta prompt -- 生成Task Prompt -- 执行任务
 2 Prompt结构说明  
 3 如果需要可提供改进版本
 额外要求：
-1 如果
+1 如果对于gai
 ```
