@@ -21,3 +21,5 @@ limits
 examples
 action
 result
+
+prompt的本质不是提问，而是设计思考过程
