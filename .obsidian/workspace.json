@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -239,7 +239,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1eb2e4fde365cb68",
+  "active": "a0b461a32a46c5db",
   "lastOpenFiles": [
     "大语言模型.md",
     "Prompt工程.md",
