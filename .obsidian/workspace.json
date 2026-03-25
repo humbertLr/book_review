@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -253,7 +253,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3de2a8421871f5b0",
+  "active": "a6fca76ea72110a8",
   "lastOpenFiles": [
     "认识论.md",
     "大语言模型.md",
