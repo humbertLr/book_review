@@ -78,49 +78,21 @@
             }
           },
           {
-            "id": "c3be3630c645d8ca",
+            "id": "3de2a8421871f5b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "信息科学.md",
+                "file": "认识论.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "信息科学"
-            }
-          },
-          {
-            "id": "22249250a05c5a3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "系统思维.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "系统思维"
-            }
-          },
-          {
-            "id": "fa06b4940c62a0ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "工程方法论.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "工程方法论"
+              "title": "认识论"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -281,14 +253,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa06b4940c62a0ae",
+  "active": "3de2a8421871f5b0",
   "lastOpenFiles": [
-    "工程方法论.md",
-    "系统思维.md",
+    "认识论.md",
+    "大语言模型.md",
     "信息科学.md",
+    "系统思维.md",
+    "工程方法论.md",
     "认知.md",
     "Prompt工程.md",
-    "大语言模型.md",
     "Psychology/当下的力量.md",
     "评价体系、结构、系统.md",
     "Planned happenstance theory.md",
@@ -308,7 +281,6 @@
     "RRAM.md",
     "注意力.md",
     "Poor Charlie's Almanack.md",
-    "The Economy 1.0.md",
     "年报分析",
     "Pasted image 20260131131851.png",
     "Career",
