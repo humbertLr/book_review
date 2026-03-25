@@ -76,9 +76,19 @@
               "icon": "lucide-file",
               "title": "大语言模型"
             }
+          },
+          {
+            "id": "c3be3630c645d8ca",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,10 +249,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1eb2e4fde365cb68",
+  "active": "a6fca76ea72110a8",
   "lastOpenFiles": [
-    "大语言模型.md",
     "Prompt工程.md",
+    "大语言模型.md",
     "Psychology/当下的力量.md",
     "认知.md",
     "评价体系、结构、系统.md",
