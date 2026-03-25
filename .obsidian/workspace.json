@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "c8f638134fe70b08",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.12.7"
+            }
+          },
+          {
             "id": "a0b461a32a46c5db",
             "type": "leaf",
             "state": {
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -253,7 +265,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6fca76ea72110a8",
+  "active": "c8f638134fe70b08",
   "lastOpenFiles": [
     "认识论.md",
     "大语言模型.md",
