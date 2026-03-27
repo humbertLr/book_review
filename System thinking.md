@@ -1,2 +1,2 @@
 #系统思维 #systemthinking
-Peter 
+Peter Senge
