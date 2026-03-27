@@ -36,18 +36,6 @@
             }
           },
           {
-            "id": "c8f638134fe70b08",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.12.7"
-            }
-          },
-          {
             "id": "a0b461a32a46c5db",
             "type": "leaf",
             "state": {
@@ -104,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -161,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "77cfc6c4f1f2d513",
@@ -265,16 +252,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c8f638134fe70b08",
+  "active": "3de2a8421871f5b0",
   "lastOpenFiles": [
+    "Prompt工程.md",
+    "认知.md",
+    "Psychology/当下的力量.md",
     "认识论.md",
     "大语言模型.md",
     "信息科学.md",
     "系统思维.md",
     "工程方法论.md",
-    "认知.md",
-    "Prompt工程.md",
-    "Psychology/当下的力量.md",
     "评价体系、结构、系统.md",
     "Planned happenstance theory.md",
     "Man and His Symbols.md",
