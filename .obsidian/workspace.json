@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 1.md",
+                "file": "System thinking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名 1"
+              "title": "System thinking"
             }
           }
         ],
@@ -254,7 +254,7 @@
   },
   "active": "d1b52876a547cd74",
   "lastOpenFiles": [
-    "未命名 1.md",
+    "System thinking.md",
     "大语言模型.md",
     "认识论.md",
     "Prompt工程.md",
