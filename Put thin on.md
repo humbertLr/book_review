@@ -27,4 +27,4 @@
 ## 2 视觉与设计资源
 - Josef Albers, Interaction of Color：通过练习理解复杂的色彩原理
 - Edward Tufte, The visual display of quantitative information：信息设计的经典书，如何让视觉表达更准确、有效、快速地支持分析、并讨论图形优化和避免视觉误导。
-- 
+- Universal Principles of E
