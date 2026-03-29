@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "心理学"
             }
+          },
+          {
+            "id": "562fa8758998f717",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Put thin on.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Put thin on"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,8 +196,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f36c7d5fce0b9ef",
+  "active": "562fa8758998f717",
   "lastOpenFiles": [
+    "Put thin on.md",
     "心理学.md",
     "System thinking.md",
     "大语言模型.md",
@@ -208,7 +224,6 @@
     "Something unknown.md",
     "投资学习.md",
     "置身事内.md",
-    "RRAM.md",
     "年报分析",
     "Pasted image 20260131131851.png",
     "Career",
