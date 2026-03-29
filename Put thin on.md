@@ -24,3 +24,4 @@
 - The Curated Closet / Anuschka Rees
 - Permanent Style
 - Die, Workwear
+##２
