@@ -22,4 +22,5 @@
 ## 1 穿搭本体资源
 - Put this on 
 - The Curated Closet / Anuschka Rees
-- Permanent 
+- Permanent Style
+- 
