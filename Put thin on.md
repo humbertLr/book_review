@@ -25,4 +25,4 @@
 - Permanent Style
 - Die, Workwear
 ## 2 视觉与设计资源
-- Josef Albers, Interaction of Color
+- Josef Albers, Interaction of Color：通过 
