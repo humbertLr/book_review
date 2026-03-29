@@ -26,4 +26,4 @@
 - Die, Workwear
 ## 2 视觉与设计资源
 - Josef Albers, Interaction of Color：通过练习理解复杂的色彩原理
-- Edward Tufte, The visual display of quantitative information
+- Edward Tufte, The visual display of quantitative information：信息设计的 
