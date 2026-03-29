@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "自我建模能力"
             }
+          },
+          {
+            "id": "3ae71b5ac64e9892",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名 1"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -238,8 +252,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0360c2f88509ebc",
+  "active": "3ae71b5ac64e9892",
   "lastOpenFiles": [
+    "未命名 1.md",
     "自我建模能力.md",
     "抽象分类能力.md",
     "形式感知能力.md",
@@ -265,7 +280,6 @@
     "Roadmap for becoming a strategy expert.md",
     "RRAM技术调研.md",
     "智慧社会.md",
-    "Norbert Wiener&Warren McCuelloch.md",
     "年报分析",
     "Pasted image 20260131131851.png",
     "Career",
