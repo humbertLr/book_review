@@ -39,6 +39,7 @@ Two fundamental concepts to define natural numbers:
 **Axiom 2.2**: If n is a natural number, then n++ is also a natural number
 
 **Definition 2.1.3**: define 1 to be the number 0++, 2 to be the number (0++)++, 3 to be...
+**Proposition 2.1.4**: 3 is a natural number
 
 **Definition 2.2.1 (Addition of natural numbers). 
 - 0+m:=m
