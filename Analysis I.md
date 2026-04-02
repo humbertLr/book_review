@@ -33,9 +33,8 @@ incrementing is a fundamental operation, not reducible to any operation, before 
 
 Two fundamental concepts to define natural numbers:
 - zero number
-- increment (successor operation)
+- increment (successor operation) -- n++
 
-n++
 
 **Definition 2.2.1 (Addition of natural numbers). 
 - 0+m:=m
