@@ -15,4 +15,5 @@ Example 1.2.4: Limiting values of functions.
 Example 1.2.5: Interchanging sums.
 # Starting at the Beginning: The Natural Numbers
 ## 2.1 The Peano Axioms
+## 2.2 Addition
 
