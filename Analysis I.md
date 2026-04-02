@@ -19,6 +19,7 @@ Example 1.2.5: Interchanging sums.
 **Definition 2.1.1** (Informal) A natural number is any element of the set
 $${N:=\set{0,1,2,3,4,...}}$$
 start with 0 and then counting forward indefinitely
+
 it's an intuitive definition, but leaves many questions unanswered like:
 - how do we know we can keep counting dindefinitely, without cycling back to 0
 - how do you perform operations such as addition, multipliccation, or exponentiation
