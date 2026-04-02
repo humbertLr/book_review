@@ -21,4 +21,4 @@ Example 1.2.5: Interchanging sums.
 - (n++)+m:=(n+m)++
 
 **Lemma 2.2.2**: For any natural number n, n+0=n
-**Lemma 2.2.3**: 
+**Lemma 2.2.3**: For any natural numbers n and m, n+
