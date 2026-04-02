@@ -40,6 +40,7 @@ Two fundamental concepts to define natural numbers:
 
 **Definition 2.1.3**: define 1 to be the number 0++, 2 to be the number (0++)++, 3 to be...
 **Proposition 2.1.4**: 3 is a natural number
+**Example 2.1.5** 
 
 **Axiom 2.3**: 0 is not the successor of any natural number; i.e., we have $n++\neq0$ for every natural number n.
 **Proposition 2.1.6** 4 is not equal to 0
