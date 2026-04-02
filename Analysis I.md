@@ -17,7 +17,7 @@ Example 1.2.5: Interchanging sums.
 ## 2.1 The Peano Axioms
 ## 2.2 Addition
 **Definition 2.1.1** (Informal) A natural number is any element of the set
-$$N:={0,1,2,3,4,...}}$$
+$${N:={0,1,2,3,4,...}}$$
 
 **Definition 2.2.1 (Addition of natural numbers). 
 - 0+m:=m
