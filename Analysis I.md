@@ -25,6 +25,7 @@ it's an intuitive definition, but leaves many questions unanswered like:
 - how do you perform operations such as addition, multipliccation, or exponentiation
 
 define complicated operations in terms of simpler operations
+- 
 **Definition 2.2.1 (Addition of natural numbers). 
 - 0+m:=m
 - (n++)+m:=(n+m)++
