@@ -29,7 +29,7 @@ define complicated operations in terms of simpler operations
 - multiplication: repeated addition
 - addition: repeated incrementing (counting forward)
 
-incrementing is a fundamental operation, not reducible to any
+incrementing is a fundamental operation, not reducible to any operation and 
 **Definition 2.2.1 (Addition of natural numbers). 
 - 0+m:=m
 - (n++)+m:=(n+m)++
