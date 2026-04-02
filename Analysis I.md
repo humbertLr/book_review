@@ -27,7 +27,7 @@ it's an intuitive definition, but leaves many questions unanswered like:
 define complicated operations in terms of simpler operations
 - exponentiation: repeated multiplication
 - multiplication: repeated addition
-- addition: 
+- addition: repeated 
 **Definition 2.2.1 (Addition of natural numbers). 
 - 0+m:=m
 - (n++)+m:=(n+m)++
