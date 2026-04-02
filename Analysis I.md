@@ -32,7 +32,8 @@ define complicated operations in terms of simpler operations
 incrementing is a fundamental operation, not reducible to any operation, before learning to add
 
 Two fundamental concepts to define natural numbers:
-- 
+- zero number
+- incre
 **Definition 2.2.1 (Addition of natural numbers). 
 - 0+m:=m
 - (n++)+m:=(n+m)++
