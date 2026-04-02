@@ -16,7 +16,8 @@ Example 1.2.5: Interchanging sums.
 # Starting at the Beginning: The Natural Numbers
 ## 2.1 The Peano Axioms
 ## 2.2 Addition
-**Definition 2.1.1** (Informal) A natural number is any element of the set
+### Definition 2.1.1
+(Informal) A natural number is any element of the set
 $${N:=\set{0,1,2,3,4,...}}$$
 start with 0 and then counting forward indefinitely
 
