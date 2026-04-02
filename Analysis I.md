@@ -13,5 +13,6 @@ Example 1.2.2: Divergent series.
 Example 1.2.3: Divergent sequences.
 Example 1.2.4: Limiting values of functions.
 Example 1.2.5: Interchanging sums.
-
+# Starting at the Beginning: The Natural Numbers
+## 2.1 The Peano Axioms
 
