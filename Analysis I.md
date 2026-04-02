@@ -41,7 +41,7 @@ Two fundamental concepts to define natural numbers:
 **Definition 2.1.3**: define 1 to be the number 0++, 2 to be the number (0++)++, 3 to be...
 **Proposition 2.1.4**: 3 is a natural number
 
-**Axiom 2.3**: 0 is not the successor of any natural number; i.e., we have $n++\neq0$ 
+**Axiom 2.3**: 0 is not the successor of any natural number; i.e., we have $n++\neq0$ for every natural number n. 
 **Definition 2.2.1 (Addition of natural numbers). 
 - 0+m:=m
 - (n++)+m:=(n+m)++
