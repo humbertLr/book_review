@@ -28,6 +28,8 @@ define complicated operations in terms of simpler operations
 - exponentiation: repeated multiplication
 - multiplication: repeated addition
 - addition: repeated incrementing (counting forward)
+
+
 **Definition 2.2.1 (Addition of natural numbers). 
 - 0+m:=m
 - (n++)+m:=(n+m)++
