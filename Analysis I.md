@@ -17,3 +17,5 @@ Example 1.2.5: Interchanging sums.
 ## 2.1 The Peano Axioms
 ## 2.2 Addition
 **Definition 2.2.1 (Addition of natural numbers). 
+- 0+m:=m
+- (n++)+m:=(n+m)++
