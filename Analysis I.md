@@ -35,6 +35,9 @@ Two fundamental concepts to define natural numbers:
 - zero number
 - increment (successor operation) -- n++
 
+**Axiom 2.1**: 0 is a natural number
+**Axiom 2.2**: If n is a natural number, then n++ is also a natural number
+
 
 **Definition 2.2.1 (Addition of natural numbers). 
 - 0+m:=m
