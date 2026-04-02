@@ -16,4 +16,4 @@ Example 1.2.5: Interchanging sums.
 # Starting at the Beginning: The Natural Numbers
 ## 2.1 The Peano Axioms
 ## 2.2 Addition
-
+**Definition 2.2.1 (Addition of natural numbers). 
