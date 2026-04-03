@@ -57,3 +57,5 @@ Two fundamental concepts to define natural numbers:
 
 **Proposition 2.2.4** (Addition is commutative). For any natural numbers n and m, n+m=m+n
 
+## 2.2 Addition
+**Definition 2.2.1** (Addition of natural numbers): Let m be a natural number. To add zero to m, we define 0+m:=m. Now suppose inductively that we have defined how to add n to m. Then we can add n++ to m by defining (n++)+m:=(n+m)++
