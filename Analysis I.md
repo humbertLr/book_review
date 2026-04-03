@@ -47,7 +47,7 @@ Two fundamental concepts to define natural numbers:
 
 **Axiom 2.4**: Different natural numbers must have different successors; i.e., if n, m are natural numbers and $n \neq m$ , then $n++ \neq m++$. Equivalently, if $n++=m++$ then we must have n=m.
 
-**Axiom 2.5** (Principle of mathematical induction): Let $P(n)$ be any pro
+**Axiom 2.5** (Principle of mathematical induction): Let $P(n)$ be any property pertaining to a natura
 **Definition 2.2.1 (Addition of natural numbers). 
 - 0+m:=m
 - (n++)+m:=(n+m)++
