@@ -45,7 +45,7 @@ Two fundamental concepts to define natural numbers:
 **Axiom 2.3**: 0 is not the successor of any natural number; i.e., we have $n++\neq0$ for every natural number n.
 **Proposition 2.1.6** 4 is not equal to 0
 
-**Axiom 2.4**: Different natural numbers must have different successors; i.e., if n, m are natural numbers and $n \neq
+**Axiom 2.4**: Different natural numbers must have different successors; i.e., if n, m are natural numbers and $n \neq m$ , then $n++ \neq 
 **Definition 2.2.1 (Addition of natural numbers). 
 - 0+m:=m
 - (n++)+m:=(n+m)++
