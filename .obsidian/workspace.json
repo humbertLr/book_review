@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,12 +225,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2c2b9d9d195804d8",
+  "active": "0f3b2d95b405d8bb",
   "lastOpenFiles": [
     "知识考古学.md",
-    "福柯.md",
-    "thinking/判断框架.md",
     "thinking/过滤信息保持判断.md",
+    "thinking/判断框架.md",
+    "福柯.md",
     "Psychology/国王 武士 祭司 诗人.md",
     "Put thin on.md",
     "Carl Jung.md",
