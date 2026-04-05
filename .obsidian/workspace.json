@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psychology/国王 武士 祭司 诗人.md",
+                "file": "thinking/判断框架.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "国王 武士 祭司 诗人"
+              "title": "判断框架"
+            }
+          },
+          {
+            "id": "0f3b2d95b405d8bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "福柯.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "福柯"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -68,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "国王",
+                "query": "福柯",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,11 +211,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "562fa8758998f717",
+  "active": "0f3b2d95b405d8bb",
   "lastOpenFiles": [
+    "福柯.md",
+    "thinking/判断框架.md",
+    "thinking/过滤信息保持判断.md",
+    "Psychology/国王 武士 祭司 诗人.md",
     "Put thin on.md",
     "Carl Jung.md",
-    "Psychology/国王 武士 祭司 诗人.md",
     "Analysis I.md",
     "社会结构.md",
     "未命名 1.md",
@@ -222,9 +239,6 @@
     "工程方法论.md",
     "评价体系、结构、系统.md",
     "Planned happenstance theory.md",
-    "Man and His Symbols.md",
-    "人形机器人.md",
-    "未命名.md",
     "年报分析",
     "Pasted image 20260131131851.png",
     "Career",
