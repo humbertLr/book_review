@@ -4,5 +4,5 @@ You need to find the **fundamental propositions** the whole system is built on, 
 
 # Prompt
 - What are the 5 foundational propositions of this subject? Not facts, not definitions. The statements that, if true, make everything else in this field follow logically.
-- 
+- For eash of these 
 
