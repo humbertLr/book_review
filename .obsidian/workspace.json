@@ -90,9 +90,19 @@
               "icon": "lucide-file",
               "title": "见识"
             }
+          },
+          {
+            "id": "54dac4ae5ba20a51",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -253,7 +263,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c2bcd45b82f2ce4",
+  "active": "43c544af55dbed02",
   "lastOpenFiles": [
     "见识.md",
     "The laws of thought.md",
