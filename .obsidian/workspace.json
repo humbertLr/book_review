@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -263,10 +263,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43c544af55dbed02",
+  "active": "3c2bcd45b82f2ce4",
   "lastOpenFiles": [
-    "见识.md",
     "The laws of thought.md",
+    "见识.md",
     "未命名 3.md",
     "福柯.md",
     "知识考古学.md",
