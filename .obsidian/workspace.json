@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The laws of thought.md",
+                "file": "见识.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The laws of thought"
+              "title": "见识"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "福柯",
+                "query": "见识",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -199,11 +199,11 @@
   },
   "active": "43c544af55dbed02",
   "lastOpenFiles": [
+    "The laws of thought.md",
     "thinking/过滤信息保持判断.md",
     "福柯.md",
     "心理学.md",
     "thinking/判断框架.md",
-    "The laws of thought.md",
     "知识考古学.md",
     "人有人的用处.md",
     "见识.md",
