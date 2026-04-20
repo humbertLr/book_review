@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 2.md",
+                "file": "底层原则.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名 2"
+              "title": "底层原则"
             }
           }
         ],
@@ -213,7 +213,7 @@
   },
   "active": "050f670e38ef1698",
   "lastOpenFiles": [
-    "未命名 2.md",
+    "底层原则.md",
     "thinking/判断框架.md",
     "thinking/过滤信息保持判断.md",
     "见识.md",
