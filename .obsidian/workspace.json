@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "方法论"
             }
+          },
+          {
+            "id": "e8f9b8cc74db9669",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "命运结构.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "命运结构"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -225,10 +239,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "050f670e38ef1698",
+  "active": "e8f9b8cc74db9669",
   "lastOpenFiles": [
-    "方法论.md",
+    "命运结构.md",
     "底层原则.md",
+    "方法论.md",
     "thinking/判断框架.md",
     "thinking/过滤信息保持判断.md",
     "见识.md",
@@ -252,7 +267,6 @@
     "形式感知能力.md",
     "System thinking.md",
     "大语言模型.md",
-    "认识论.md",
     "年报分析",
     "Pasted image 20260131131851.png",
     "Career",
