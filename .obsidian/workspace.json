@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "认知",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -239,7 +239,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e8f9b8cc74db9669",
+  "active": "aad0c9d0d0d70dba",
   "lastOpenFiles": [
     "命运结构.md",
     "底层原则.md",
