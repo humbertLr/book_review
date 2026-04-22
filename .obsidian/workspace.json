@@ -90,9 +90,23 @@
               "icon": "lucide-file",
               "title": "跨领域整合"
             }
+          },
+          {
+            "id": "c35127b4627bd93c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "产业链.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "产业链"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -253,8 +267,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98fa57247b1ada82",
+  "active": "c35127b4627bd93c",
   "lastOpenFiles": [
+    "产业链.md",
     "跨领域整合.md",
     "命运结构.md",
     "底层原则.md",
@@ -280,7 +295,6 @@
     "自我建模能力.md",
     "抽象分类能力.md",
     "形式感知能力.md",
-    "System thinking.md",
     "年报分析",
     "Pasted image 20260131131851.png",
     "Career",
