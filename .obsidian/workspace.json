@@ -8,91 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0f3b2d95b405d8bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "福柯.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "福柯"
-            }
-          },
-          {
-            "id": "43c544af55dbed02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thinking/判断框架.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "判断框架"
-            }
-          },
-          {
-            "id": "050f670e38ef1698",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "底层原则.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "底层原则"
-            }
-          },
-          {
-            "id": "e22018cf830d2081",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "方法论.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "方法论"
-            }
-          },
-          {
-            "id": "e8f9b8cc74db9669",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "命运结构.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "命运结构"
-            }
-          },
-          {
-            "id": "98fa57247b1ada82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "跨领域整合.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "跨领域整合"
-            }
-          },
-          {
-            "id": "c35127b4627bd93c",
+            "id": "00eea956177cf9aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -106,35 +22,21 @@
             }
           },
           {
-            "id": "28a1961b30262d52",
+            "id": "457d2a4aed20fbb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "年报分析/歌尔股份.md",
+                "file": "数字孪生.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "歌尔股份"
-            }
-          },
-          {
-            "id": "00eea956177cf9aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "一本书读懂财报.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "一本书读懂财报"
+              "title": "数字孪生"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "产业链",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -294,25 +197,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "00eea956177cf9aa",
+  "active": "457d2a4aed20fbb0",
   "lastOpenFiles": [
+    "数字孪生.md",
+    "产业链.md",
     "一本书读懂财报.md",
+    "跨领域整合.md",
+    "命运结构.md",
+    "方法论.md",
+    "底层原则.md",
+    "thinking/判断框架.md",
+    "福柯.md",
     "年报分析/歌尔股份.md",
     "年报分析/公司年报阅读.md",
     "公司.md",
     "未命名.md",
     "EDA产业.md",
     "未命名 3.md",
-    "产业链.md",
-    "跨领域整合.md",
-    "命运结构.md",
-    "底层原则.md",
-    "方法论.md",
-    "thinking/判断框架.md",
     "thinking/过滤信息保持判断.md",
     "见识.md",
     "The laws of thought.md",
-    "福柯.md",
     "心理学.md",
     "知识考古学.md",
     "人有人的用处.md",
@@ -321,7 +225,6 @@
     "Carl Jung.md",
     "Analysis I.md",
     "社会结构.md",
-    "系统决策能力.md",
     "年报分析",
     "Pasted image 20260131131851.png",
     "Career",
