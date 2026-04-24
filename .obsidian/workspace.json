@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -225,10 +225,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2dcd7dfdcd04e360",
+  "active": "ba96ac6122ecd878",
   "lastOpenFiles": [
-    "PPT文稿.md",
     "基于连续介质力学的工业软件.md",
+    "PPT文稿.md",
     "数字孪生.md",
     "产业链.md",
     "一本书读懂财报.md",
