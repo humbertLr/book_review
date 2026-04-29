@@ -6,4 +6,4 @@ large language model
 ## 2 Token
 大模型是一个函数，里面跑的是矩阵运算，接受的是**数字**，输出的也是数字。
 人类和大模型之间的Tokenizer：负责编码和解码。
-
+编码的具体过程：Tokenizer切分文字变成一串Token ID组成的列表
