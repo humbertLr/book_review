@@ -26,4 +26,6 @@ Prompt Engineering
 用户输入
 ### System Prompt
 说明人设和具体做事规则
+## 5 Tool
+解决的是大模型无法感知外界环境的问题
 
