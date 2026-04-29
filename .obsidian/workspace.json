@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 1.md",
+                "file": "AI agent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名 1"
+              "title": "AI agent"
             }
           }
         ],
@@ -241,7 +241,7 @@
   },
   "active": "4f40bcc48ae77a26",
   "lastOpenFiles": [
-    "未命名 1.md",
+    "AI agent.md",
     "The laws of thought.md",
     "基于连续介质力学的工业软件.md",
     "PPT文稿.md",
