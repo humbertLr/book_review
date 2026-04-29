@@ -25,4 +25,4 @@ Prompt Engineering
 ### User Prompt
 用户输入
 ### System Prompt
-s
+说明人设和具体做事 
