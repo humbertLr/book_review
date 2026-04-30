@@ -32,6 +32,6 @@ Prompt Engineering
 平台，用来上传下达，完成工具调用命令，真正和用户进行交互，串联整个流程
 ## 6 MCP
 工具接入平台的统一规范
-Model Context Protocol
+Model Context Protocol,  
 
 
