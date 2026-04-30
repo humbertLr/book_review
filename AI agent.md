@@ -38,6 +38,6 @@ Model Context Protocol, 模型上下文协议
 构建模式：ReAct; Plan And Execute
 
 Agent Skill: 给Agent看的说明文档
-
+- SKILL.md
 
 
