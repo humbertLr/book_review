@@ -34,6 +34,7 @@ Prompt Engineering
 工具接入平台的统一规范
 Model Context Protocol, 模型上下文协议
 ## 7 Agent
+自主规划能力+自主调用工具
 
 
 
