@@ -3,7 +3,7 @@
 You need to find the **fundamental propositions** the whole system is built on, and then trace the **logic** forward from there.
 
 # Prompt
-- What are the 5 foundational propositions of this subject? Not facts, not definitions. The statements that, if true, make everything else in this field follow logically.
+- What are the 5 foundational propositions of this subject? N ot facts, not definitions. The statements that, if true, make everything else in this field follow logically.
 - For each of these propopsitions, what is the one piece of evidence that would destroy it? What would have to be true for this entire framework to be wrong?
 - Now show me how these five propositions connect to each other. Which ones are assumptions? Which ones are conclusions? Which ones are in tension? 
 

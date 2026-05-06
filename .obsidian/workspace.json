@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -239,8 +239,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f40bcc48ae77a26",
+  "active": "2dcd7dfdcd04e360",
   "lastOpenFiles": [
+    "见识.md",
     "AI agent.md",
     "The laws of thought.md",
     "基于连续介质力学的工业软件.md",
@@ -261,7 +262,6 @@
     "EDA产业.md",
     "未命名 3.md",
     "thinking/过滤信息保持判断.md",
-    "见识.md",
     "心理学.md",
     "知识考古学.md",
     "人有人的用处.md",
