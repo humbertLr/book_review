@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI agent.md",
+                "file": "见识.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI agent"
+              "title": "见识"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "the law",
+                "query": "见识",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
