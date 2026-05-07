@@ -178,5 +178,5 @@ body.compact-mode .cm-line {
 
 /* 压缩编辑视图 (实时预览/源码模式) 中纯空行的高度 */
 .markdown-source-view .cm-line:has(> br:only-child):not(.cm-active) {
-	line-height: 0.3 !important;
+	line-height: 0.2 !important;
 }
