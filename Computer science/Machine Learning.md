@@ -10,7 +10,7 @@ linear regression. fitting a line between two variables
 
 logistic regression
 - sigmoid function
-
+- 
 
 
 
