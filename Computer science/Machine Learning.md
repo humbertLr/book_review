@@ -1,1 +1,2 @@
-Supervised lear
+Supervised learning
+Unsupervis
