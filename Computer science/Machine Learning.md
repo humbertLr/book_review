@@ -17,7 +17,7 @@ Knearest Neighbors Algorithm. Non-parametric algorithm
 - use the cross validation to find the best hyperparameter
 
 Support Vector Machine (SVM)
-
+- Decision boundary
 
 
 
