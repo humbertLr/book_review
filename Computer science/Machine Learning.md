@@ -10,7 +10,7 @@ linear regression. fitting a line between two variables
 
 logistic regression
 - sigmoid function
-- 
+- predicted y lies within 0 and 1 range
 
 
 
