@@ -11,6 +11,8 @@ linear regression. fitting a line between two variables
 
 
 
+
+
 Unsupervised learning
 - unlabeled data
 Linear regression
