@@ -1,6 +1,7 @@
 Supervised learning
 - labeled data
 Classifaication
+predict a dicrete categorical variable
 
 
 Regression
