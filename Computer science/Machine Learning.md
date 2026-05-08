@@ -39,7 +39,7 @@ Neural networks & deep learning
 Clustering
 - for classification, classes known; for clustering, classes unknown
 K-means clustering
-- K is a hyperparameter, stands for the number of 
+- K is a hyperparameter, stands for the number of clusters
 Ensemble Algorithms
 Bagging & Random Forests
 Boosting & Strong learners
