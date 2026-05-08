@@ -45,7 +45,7 @@ Dimensionality reducition
 - data preprocessing
 
 Principal component analysis (PCA)
-- 
+-  
 Ensemble Algorithms
 Bagging & Random Forests
 Boosting & Strong learners
