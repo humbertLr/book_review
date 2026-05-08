@@ -8,4 +8,5 @@ Naive Bayes Classifier
 Decision Trees
 Ensemble Algorithms
 Bagging & Random Forests
-Boosting & Strong learner
+Boosting & Strong learners
+Neural Networ
