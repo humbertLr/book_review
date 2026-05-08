@@ -5,7 +5,7 @@ predict a **dicrete** categorical variable
 
 
 Regression
-predict a continuous numeric target variable
+predict a **continuous** numeric target variable
 
 
 
