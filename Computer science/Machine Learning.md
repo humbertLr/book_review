@@ -29,7 +29,7 @@ Decision trees
 - 
 
 Neural networks & deep learning
-- 
+- hidden layer
 
 
 
