@@ -9,4 +9,4 @@ Decision Trees
 Ensemble Algorithms
 Bagging & Random Forests
 Boosting & Strong learners
-Neural Networ
+Neural Networks / Deep learning
