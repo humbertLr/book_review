@@ -4,4 +4,4 @@ Linear regression
 Logistic regression
 K Nearest Neighbors (KNN)
 Support Vector Machine (SVM)
-Naive Bayes Clas
+Naive Bayes Classifier 
