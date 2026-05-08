@@ -12,4 +12,4 @@
     - Proposition: A meaningful human life requires "Transcendence" (active creation, projecting into the future, shaping the world), but society systematically **confines** women to "Immanence" (stagnation, repetition, inwardness, and mere maintenance of life).
     - The logic: If the subject traps the Other in immanence, he commits a fundamental ethical violation. 
 4. The structural Axiom: The Complicity of Mitsein (Being-With)
-    - Prop
+    - Proposition: 
