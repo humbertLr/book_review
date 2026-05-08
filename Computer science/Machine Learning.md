@@ -37,7 +37,7 @@ Neural networks & deep learning
 # Unsupervised learning
 - unlabeled data
 Clustering
-- for classification, classes unknown; for clu
+- for classification, classes
 Ensemble Algorithms
 Bagging & Random Forests
 Boosting & Strong learners
