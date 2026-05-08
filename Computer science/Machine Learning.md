@@ -2,6 +2,7 @@ Supervised learning
 - labeled data
 Classifaication
 
+
 Regression
 
 
