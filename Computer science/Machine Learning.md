@@ -6,7 +6,8 @@ predict a **dicrete** categorical variable
 
 Regression
 predict a **continuous** numeric target variable
-linear regression
+linear regression. fitting a line between two variables
+
 
 
 
