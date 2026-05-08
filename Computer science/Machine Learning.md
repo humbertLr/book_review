@@ -14,7 +14,7 @@ logistic regression
 
 Knearest Neighbors Algorithm. Non-parametric algorithm
 - K is the hyperparemeter
-- 
+- use the cross validation to find the best hyperparameter
 
 
 
