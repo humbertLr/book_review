@@ -19,6 +19,8 @@ Knearest Neighbors Algorithm. Non-parametric algorithm
 Support Vector Machine (SVM)
 - Decision boundary
 - Hyperplane
+- Kernel functions
+- 
 
 
 
