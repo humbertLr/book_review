@@ -20,7 +20,9 @@ Support Vector Machine (SVM)
 - Decision boundary
 - Hyperplane
 - Kernel functions
-- 
+
+Naive Bayes Classifier
+
 
 
 
