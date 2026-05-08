@@ -40,6 +40,9 @@ Clustering
 - for classification, classes known; for clustering, classes unknown
 K-means clustering
 - K is a hyperparameter, stands for the number of clusters
+
+Dimensionality reducition
+- 
 Ensemble Algorithms
 Bagging & Random Forests
 Boosting & Strong learners
