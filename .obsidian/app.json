@@ -6,5 +6,6 @@
   "readableLineLength": false,
   "defaultViewMode": "source",
   "livePreview": true,
-  "useTab": false
+  "useTab": false,
+  "vimMode": true
 }
