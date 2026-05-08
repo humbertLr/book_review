@@ -10,4 +10,4 @@
     - The logic: Drawing heavily from Hegelian Mater/Slave dialectic, to establish its own sovereignty, a consciousness must objectify something else. Men have successfully claimed the universal category of the "Subject", then woman is defined strictly relative to him. All societal structures will logically be built to reinforce man's subjectivity and woman's objectification. 
 3. The Ethical Axiom: Transcendence vs. Immanence
     - Proposition: A meaningful human life requires "Transcendence" (active creation, projecting into the future, shaping the world), but society systematically **confines** women to "Immanence" (stagnation, repetition, inwardness, and mere maintenance of life).
-    - The logic: 
+    - The logic: If the subject traps the Other in immanence, he commits a fundamental ethical violation
