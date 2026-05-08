@@ -43,6 +43,8 @@ K-means clustering
 
 Dimensionality reducition
 - data preprocessing
+
+Principal componen
 Ensemble Algorithms
 Bagging & Random Forests
 Boosting & Strong learners
