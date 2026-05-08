@@ -28,6 +28,9 @@ Naive Bayes Classifier
 Decision trees
 - 
 
+Neural networks & deep learning
+- 
+
 
 
 
