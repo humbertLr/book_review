@@ -10,3 +10,6 @@ Ensemble Algorithms
 Bagging & Random Forests
 Boosting & Strong learners
 Neural Networks / Deep learning
+Clustering / K-means
+Dimensionality Reduction
+Principal Component Analysis (PCA)
