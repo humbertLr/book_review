@@ -1,4 +1,4 @@
-Supervised learning
+# Supervised learning
 - labeled data
 Classifaication
 predict a **dicrete** categorical variable
