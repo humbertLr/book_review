@@ -1,5 +1,4 @@
 Supervised learning
-
 Unsupervised learning
 Linear regression
 Logistic regression
@@ -9,4 +8,4 @@ Naive Bayes Classifier
 Decision Trees
 Ensemble Algorithms
 Bagging & Random Forests
-Boosting & 
+Boosting & Strong learner
