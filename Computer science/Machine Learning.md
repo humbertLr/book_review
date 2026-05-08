@@ -1,3 +1,3 @@
 Supervised learning
 Unsupervised learning
-Linera
+Linear regre
