@@ -18,4 +18,4 @@ The rejection of essence, the Subject/Other dialectic, the necessity of transcen
 
 ## Collapsse
 1. The Falsifier for the Ontological Axiom
-    - The Destroyer: Hard biolo
+    - The Destroyer: Hard biological determinism map
