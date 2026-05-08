@@ -4,6 +4,7 @@ Classifaication
 
 
 Regression
+predict a continuous numeric target variable
 
 
 
