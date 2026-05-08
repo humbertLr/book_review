@@ -7,4 +7,4 @@
     - Conclusion: **One is not born, but rather becomes, a woman.** 
 - The Phenomenological Axiom: The Dialectic of the Other
     - Proposition: Human consciousness inherently defines itself as the absolute "Subject" by opposing itself to an "Other".
-    - The logic: Drawing heavily from Hegelian Mater/Slave dialectic, to establish its own sovereignty, a consciousness must objectify something else. Men have successfully claimed the universal category of the "Subject", then woman is defined strictly relative to him. All societal structures will logically be built to reinforce man's subjectivity and 
+    - The logic: Drawing heavily from Hegelian Mater/Slave dialectic, to establish its own sovereignty, a consciousness must objectify something else. Men have successfully claimed the universal category of the "Subject", then woman is defined strictly relative to him. All societal structures will logically be built to reinforce man's subjectivity and woman's objectification. 
