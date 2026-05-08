@@ -2,6 +2,9 @@ Supervised learning
 - labeled data
 Classifaication
 
+Regression
+
+
 
 Unsupervised learning
 - unlabeled data
