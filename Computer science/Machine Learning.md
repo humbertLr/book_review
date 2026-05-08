@@ -22,7 +22,7 @@ Support Vector Machine (SVM)
 - Kernel functions
 
 Naive Bayes Classifier
-
+- based on By
 
 
 
