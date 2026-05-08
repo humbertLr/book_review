@@ -25,6 +25,8 @@ Naive Bayes Classifier
 - based on Bayes theory: $P(A|B)=\frac{P(B|A)\cdot P(A)}{P(B)}$
 - spam classification
 
+Decision trees
+
 
 
 
