@@ -1,5 +1,6 @@
 Supervised learning
 - labeled data
+Classifaication
 
 
 Unsupervised learning
