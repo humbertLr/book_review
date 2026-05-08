@@ -1,6 +1,8 @@
 Supervised learning
-training dataset
+- labeled data
+
 Unsupervised learning
+- unlabeled data
 Linear regression
 Logistic regression
 K Nearest Neighbors (KNN)
