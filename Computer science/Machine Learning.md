@@ -1,2 +1,3 @@
 Supervised learning
-Unsupervis
+Unsupervised learning
+Linera
