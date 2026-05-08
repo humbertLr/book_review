@@ -1,4 +1,5 @@
 Supervised learning
+training dataset
 Unsupervised learning
 Linear regression
 Logistic regression
