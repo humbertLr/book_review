@@ -12,7 +12,7 @@ logistic regression
 - sigmoid function
 - predicted y lies within 0 and 1 range
 
-Knearest Neighbor
+Knearest Neighbors Algorithm
 
 
 
