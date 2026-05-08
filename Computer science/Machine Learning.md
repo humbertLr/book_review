@@ -23,7 +23,7 @@ Support Vector Machine (SVM)
 
 Naive Bayes Classifier
 - based on Bayes theory:
-    
+    $$P()
 
 
 
