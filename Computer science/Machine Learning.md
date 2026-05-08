@@ -33,12 +33,6 @@ Decision trees
 
 Unsupervised learning
 - unlabeled data
-Linear regression
-Logistic regression
-K Nearest Neighbors (KNN)
-Support Vector Machine (SVM)
-Naive Bayes Classifier 
-Decision Trees
 Ensemble Algorithms
 Bagging & Random Forests
 Boosting & Strong learners
