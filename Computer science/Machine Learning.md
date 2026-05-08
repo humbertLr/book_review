@@ -8,7 +8,7 @@ Regression
 predict a **continuous** numeric target variable
 linear regression. fitting a line between two variables
 
-
+logistic regression. 
 
 
 
