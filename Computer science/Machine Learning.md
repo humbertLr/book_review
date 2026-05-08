@@ -23,7 +23,7 @@ Support Vector Machine (SVM)
 
 Naive Bayes Classifier
 - based on Bayes theory:
-    $$P(A|B)=frac{P(B|A)\dot P(A)}{P(B)}$$
+    $$P(A|B)=fraction{P(B|A)\dot P(A)}{P(B)}$$
 
 
 
