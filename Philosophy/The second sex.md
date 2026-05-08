@@ -13,4 +13,4 @@
     - The logic: If the subject traps the Other in immanence, he commits a fundamental ethical violation. 
 4. The structural Axiom: The Complicity of Mitsein (Being-With)
     - Proposition: Women are deeply bound to their oppressors by biological, economic, and intimate ties, lacking a distinct historical or spatial community.
-    - The logic: Women are dispersed among men, 
+    - The logic: Women are dispersed among men. Because freedom brings the heavy burden of existential anxiety, women are often tempted into complicity with their own oppression. 
