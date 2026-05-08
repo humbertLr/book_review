@@ -22,7 +22,7 @@ Support Vector Machine (SVM)
 - Kernel functions
 
 Naive Bayes Classifier
-- based on Bayes theory:
+- based on Bayes theory: $$P(A|B)=\frac{P(B|A)\cdot P(A)}{P(B)}$$
     $$P(A|B)=\frac{P(B|A)\cdot P(A)}{P(B)}$$
 
 
