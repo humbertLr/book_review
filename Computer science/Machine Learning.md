@@ -3,4 +3,4 @@ Unsupervised learning
 Linear regression
 Logistic regression
 K Nearest Neighbors (KNN)
-Support Vector Machine
+Support Vector Machine (SVM)
