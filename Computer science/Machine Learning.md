@@ -38,6 +38,8 @@ Neural networks & deep learning
 - unlabeled data
 Clustering
 - for classification, classes known; for clustering, classes unknown
+K-means clustering
+- 
 Ensemble Algorithms
 Bagging & Random Forests
 Boosting & Strong learners
