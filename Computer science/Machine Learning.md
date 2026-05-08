@@ -13,6 +13,8 @@ logistic regression
 - predicted y lies within 0 and 1 range
 
 Knearest Neighbors Algorithm. Non-parametric algorithm
+- K is the hyperparemeter
+- 
 
 
 
