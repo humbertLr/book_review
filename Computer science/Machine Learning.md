@@ -1,6 +1,7 @@
 Supervised learning
 - labeled data
 
+
 Unsupervised learning
 - unlabeled data
 Linear regression
