@@ -15,3 +15,4 @@ The rejection of essence, the Subject/Other dialectic, the necessity of transcen
 4. The structural Axiom: The Complicity of Mitsein (Being-With)
     - Proposition: Women are deeply bound to their oppressors by biological, economic, and intimate ties, lacking a distinct historical or spatial community.
     - The logic: Women are dispersed among men. Because freedom brings the heavy burden of existential anxiety, women are often tempted into complicity with their own oppression. They may accept the comfortable, passive role of the "Other" (Bad Faith) to gain economic security or male protection. 
+
