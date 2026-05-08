@@ -17,3 +17,4 @@ The rejection of essence, the Subject/Other dialectic, the necessity of transcen
     - The logic: Women are dispersed among men. Because freedom brings the heavy burden of existential anxiety, women are often tempted into complicity with their own oppression. They may accept the comfortable, passive role of the "Other" (Bad Faith) to gain economic security or male protection. 
 
 ## Collapsse
+1. 
