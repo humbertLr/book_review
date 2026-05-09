@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "半导体/未命名.md",
+                "file": "半导体/ESD器件防护.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "ESD器件防护"
             }
           },
           {
@@ -237,7 +237,7 @@
   "active": "4f40bcc48ae77a26",
   "lastOpenFiles": [
     "Philosophy/The second sex.md",
-    "半导体/未命名.md",
+    "半导体/ESD器件防护.md",
     "半导体",
     "Computer science/Machine Learning.md",
     "见识.md",
