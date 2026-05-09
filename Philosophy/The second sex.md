@@ -18,4 +18,4 @@ The rejection of essence, the Subject/Other dialectic, the necessity of transcen
 
 ## Collapsse
 1. The Falsifier for the Ontological Axiom
-    - The Destroyer: Hard biological determinism mapping directly to complex social limitations.  
+    - The Destroyer: Hard biological determinism mapping directly to complex social limitations.   
