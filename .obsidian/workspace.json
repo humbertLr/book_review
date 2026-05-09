@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/The second sex.md",
+                "file": "半导体/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The second sex"
+              "title": "未命名"
             }
           },
           {
@@ -234,11 +234,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9490359e31b55610",
+  "active": "4f40bcc48ae77a26",
   "lastOpenFiles": [
-    "未命名",
-    "Computer science/Machine Learning.md",
     "Philosophy/The second sex.md",
+    "半导体/未命名.md",
+    "半导体",
+    "Computer science/Machine Learning.md",
     "见识.md",
     "Warren Buffet.md",
     "PPT文稿.md",
@@ -274,7 +275,6 @@
     "Society",
     "Psychology",
     "Language",
-    "Computer science",
     "Psychology/Pasted image 20251221203653.png"
   ]
 }
