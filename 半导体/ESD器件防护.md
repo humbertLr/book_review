@@ -1,1 +1,1 @@
-ESD (Electro-)
+ESD (Electro-Static-Discharge):  
