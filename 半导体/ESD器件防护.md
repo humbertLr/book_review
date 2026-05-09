@@ -1,1 +1,1 @@
-ESD (Electro-Static-Discharge): 芯片制造运输过程中由外部引入的 
+ESD (Electro-Static-Discharge): 芯片制造运输过程中由外部引入的** 
