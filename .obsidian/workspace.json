@@ -67,14 +67,18 @@
             "id": "396e82b682debb09",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "未命名 1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "未命名 1"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -234,10 +238,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f40bcc48ae77a26",
+  "active": "396e82b682debb09",
   "lastOpenFiles": [
-    "Philosophy/The second sex.md",
+    "未命名 1.md",
     "半导体/ESD器件防护.md",
+    "Philosophy/The second sex.md",
     "半导体",
     "Computer science/Machine Learning.md",
     "见识.md",
@@ -262,7 +267,6 @@
     "未命名.md",
     "EDA产业.md",
     "未命名 3.md",
-    "thinking/过滤信息保持判断.md",
     "年报分析",
     "Pasted image 20260131131851.png",
     "Career",
