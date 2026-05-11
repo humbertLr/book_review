@@ -7,4 +7,4 @@
 - 继续缩小尺寸已经无法有效降低成本
     - 产业界痛点：Bit Cost Scaling失效  ==这是什么意思==
 - NAND比DRAM更适合3D化
-    - NAND是字符串结构 (string architecture)，
+    - NAND是字符串结构 (string architecture)，天然适合 
