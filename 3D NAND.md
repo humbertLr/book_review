@@ -9,4 +9,4 @@
 - NAND比DRAM更适合3D化
     - NAND是字符串结构 (string architecture)，天然适合垂直堆叠
     - DRAM电容结构复杂、刷新要求高、3D热问题严重
-    - 
+# 2 3D NAND如何实现高密度
