@@ -13,3 +13,4 @@
 3D NAND并不是简单的堆叠，而是工艺和材料的协同创新  
 - charge trap layer
 - Macaroni Channel. 体现高深宽比刻蚀，ALD沉积和多晶硅填充
+# 3 3
