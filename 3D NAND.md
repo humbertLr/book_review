@@ -12,4 +12,4 @@
 # 2 3D NAND如何实现高密度
 3D NAND并不是简单的堆叠，而是工艺和材料的协同创新  
 - charge trap layer
-- 
+- Macaroni Channel. 体现 
