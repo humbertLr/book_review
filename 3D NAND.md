@@ -14,3 +14,4 @@
 - charge trap layer
 - Macaroni Channel. 体现高深宽比刻蚀，ALD沉积和多晶硅填充
 # 3 3D NAND的极限和问题
+ 
