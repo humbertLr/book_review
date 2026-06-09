@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/哲学导论.md",
+                "file": "Psychology/国王 武士 祭司 诗人.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "哲学导论"
+              "title": "国王 武士 祭司 诗人"
             }
           }
         ],
@@ -254,8 +254,8 @@
   },
   "active": "641f239ded0ed929",
   "lastOpenFiles": [
-    "Complex systems science.md",
     "Philosophy/哲学导论.md",
+    "Complex systems science.md",
     "Warren Buffet.md",
     "非暴力沟通.md",
     "心理成长.md",
