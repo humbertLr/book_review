@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "公司.md",
+                "file": "Society/文化判断系统.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "公司"
+              "title": "文化判断系统"
             }
           }
         ],
@@ -270,6 +270,7 @@
   },
   "active": "9c740d0cd28b028a",
   "lastOpenFiles": [
+    "公司.md",
     "半导体/ESD器件防护.md",
     "底层原则.md",
     "大语言模型.md",
@@ -295,7 +296,6 @@
     "Psychology/国王 武士 祭司 诗人.md",
     "Psychology/福格行为模型.md",
     "Psychology/当下的力量.md",
-    "Psychology/别想太多啦.md",
     "Pasted image 20260131131851.png",
     "Psychology/Pasted image 20251221203001.png",
     "半导体",
