@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Society/厌女症.md",
+                "file": "Society/文化.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "厌女症"
+              "title": "文化"
             }
           }
         ],
@@ -270,7 +270,8 @@
   },
   "active": "9c740d0cd28b028a",
   "lastOpenFiles": [
-    "Society/未命名.md",
+    "Society/厌女症.md",
+    "Society/文化.md",
     "认识论.md",
     "未命名.md",
     "系统思维.md",
@@ -297,7 +298,6 @@
     "Analysis I.md",
     "The laws of thought.md",
     "AI agent.md",
-    "基于连续介质力学的工业软件.md",
     "年报分析",
     "Pasted image 20260131131851.png",
     "Career",
