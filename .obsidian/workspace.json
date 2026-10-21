@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "谱系学"
             }
+          },
+          {
+            "id": "6e6c1b4be023cd3e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.13.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,7 +212,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d1f91534bfdd82f5",
+  "active": "6e6c1b4be023cd3e",
   "lastOpenFiles": [
     "谱系学.md",
     "主体性.md",
