@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PDK.md",
+                "file": "记录.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PDK"
+              "title": "记录"
             }
           }
         ],
@@ -228,8 +228,12 @@
   },
   "active": "4ec8a76716db212d",
   "lastOpenFiles": [
-    "半导体/ESD器件防护.md",
+    "Roadmap for becoming a strategy expert.md",
+    "Something unknown.md",
+    "RRAM技术调研.md",
+    "Put thin on.md",
     "PDK.md",
+    "半导体/ESD器件防护.md",
     "记录.md",
     "未命名",
     "主体性.md",
@@ -251,10 +255,6 @@
     "thinking/思考：快与慢.md",
     "thinking/贫穷是被设计好的.md",
     "thinking/判断框架.md",
-    "thinking/奶头乐陷阱.md",
-    "thinking/过滤信息保持判断.md",
-    "thinking/反脆弱.md",
-    "Psychology/Introdution to Psychology.md",
     "Pasted image 20260131131851.png",
     "Psychology/Pasted image 20251221203001.png",
     "半导体",
